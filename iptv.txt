@@ -546,6 +546,15 @@ https://live20.bozztv.com/akamaissh101/ssh101/hcrtstar10/playlist.m3u8
 
 
 
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,MUSIC AZ HIT
+https://cdn4.yayin.com.tr/musicazhit/video.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,CTV AZ
+http://cdn-ctvazerbaycan.yayin.com.tr/ctvazerbaycan/ctvazerbaycan/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,ARI MUSIC
+http://cdn-arimusic.yayin.com.tr/arimusic/arimusic/playlist.m3u8
+
+
+
 #####################################################################################################################################################################################################
 ########## YOUTUBE                    ###############################################################################################################################################################
 #####################################################################################################################################################################################################
