@@ -210,6 +210,62 @@ http://cdn-onstv.yayin.com.tr/onstv/tracks-v1a1/mono.m3u8
 https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,cine 1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,SİNEMA TV
+https://kbl-chnls-m3u.tecostream.workers.dev/Sinema_Tv.php
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,SİNEMA AKSİYON
+https://kbl-chnls-m3u.tecostream.workers.dev/Sinema_Aksiyon.php
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,SİNEMA YERLİ
+https://kbl-chnls-m3u.tecostream.workers.dev/Sinema_Yerli.php
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,SİNEMA AİLE
+https://kbl-chnls-m3u.tecostream.workers.dev/Sinema_Aile.php
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,SİNEMA 1001
+https://kbl-chnls-m3u.tecostream.workers.dev/Sinema_1001.php
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,SİNEMA KOMEDİ
+https://kbl-chnls-m3u.tecostream.workers.dev/Sinema_Komedi.php
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,VİZYON TV1
+https://goldvod.org/tv/uyanik?id=10
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,VİZYON TV2
+https://goldvod.org/tv/uyanik?id=11
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,VİZYON TV3
+https://tv.arectv34.sbs/live/sinema1002.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,VİZYON TV4
+https://goldvod.org/tv/uyanik?id=94
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,VİZYON BELGEL TV5
+https://goldvod.org/tv/uyanik?id=96
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,FILMBOX PREMIER
+http://spy17.eu:80/ozkanshmx/06.02.22/317203
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,FILMBOX ACTION
+http://spy17.eu:80/ozkanshmx/06.02.22/317204
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,FILMBOX DRAMA
+http://spy17.eu:80/ozkanshmx/06.02.22/317207
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,FILMBOX KOMEDI
+http://spy17.eu:80/ozkanshmx/06.02.22/317209
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,FILMBOX FAMILY
+http://spy17.eu:80/ozkanshmx/06.02.22/317211
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,FILMBOX YERLİ
+http://spy17.eu:80/ozkanshmx/06.02.22/317212
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,FILMBOX YEŞİLÇAM
+http://spy17.eu:80/ozkanshmx/06.02.22/317213
+
+
+
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,cine 5
 #https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
 http://116.202.117.244:1935/cine5tv/cine5tv/sec-f5-v1-a1.m3u8
@@ -9402,3 +9458,4 @@ https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/149576132
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://kerimmkirac-vavoo.hf.space/proxy/m3u?url=https://vavoo.to/play/1197572527/index.m3u8
+
