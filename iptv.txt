@@ -1895,49 +1895,15 @@ https://sc-kuzeykibrissmarttv.ercdn.net/kibrisgenctv/bant1/playlist.m3u8
 
 #####################################################################################################################################################################################################
 
+#EXTINF:-1 group-title="🇹🇷 | 🔊 | RADYO CH"   tvg-id="AHaber.tr"              tvg-logo=""                     ,A Haber Fm
+https://i.tmgrup.com.tr/tmg/turkuvazmedyagrubu/assets/img/logolar/ahaber.png
+https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8
 
 
 
 
 
 #####################################################################################################################################################################################################
-
-#EXTINF:-1 group-title="🇹🇷 | 🔊 | RADYO CH"   tvg-id="TRTRadyo1.tr"           tvg-logo="https://cdn-i.pr.trt.com.tr/trtdinle//w580/q70/12467415.jpeg"                            ,TRT RADYO 1
-https://radio-trtradyo1.live.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="🇹🇷 | 🔊 | RADYO CH"   tvg-id="TRTFM.tr"               tvg-logo="https://cdn-i.pr.trt.com.tr/trtdinle//w580/q70/12467418.jpeg"                            ,TRT FM
-https://radio-trtfm.live.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="🇹🇷 | 🔊 | RADYO CH"   tvg-id="ALEMFM.tr"              tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/alem-fm.jpg"                           ,Alem FM
-#https://turkmedya.radyotvonline.com/turkmedya/alemfm.stream/playlist.m3u8
-#https://alemfm.radyotvonline.net/alemfmaac
-https://edge1.radyotvonline.net/shoutcast/play/alemfm
-#EXTINF:-1 group-title="🇹🇷 | 🔊 | RADYO CH"   tvg-id="BestFM.tr"              tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/best-fm-dinle-100x100.png"             ,BEST FM
-http://37.247.100.100/best/bestfm.stream/playlist.m3u8
-#EXTINF:-1 group-title="🇹🇷 | 🔊 | RADYO CH"   tvg-id=""                       tvg-logo=""                                                                                        ,Show radyo
-https://46.20.3.228/;
-#EXTINF:-1 group-title="🇹🇷 | 🔊 | RADYO CH"   tvg-id=""                       tvg-logo=""                                                                                        ,Radyo Viva
-https://46.20.3.231/;
-#EXTINF:-1 group-title="🇹🇷 | 🔊 | RADYO CH"   tvg-id="Radyo7.tr"              tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-7.jpg"                           ,Radyo 7
-http://46.20.3.251/stream/169/
-#EXTINF:-1 group-title="🇹🇷 | 🔊 | RADYO CH"   tvg-id="RadyoD.tr"              tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/radyo-d-dinle.png"                     ,RADYO D
-#https://radyo.duhnet.tv/radyod
-https://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8
-#EXTINF:-1 group-title="🇹🇷 | 🔊 | RADYO CH"   tvg-id=""                       tvg-logo=""                                                                                        ,RADYO MEVLANA
-https://radyo.radyomevlana.com:9786/stream
-#EXTINF:-1 group-title="🇹🇷 | 🔊 | RADYO CH"   tvg-id="SuperFM.tr"             tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/super-fm-dinle.jpg"                    ,Super FM
-https://25443.live.streamtheworld.com/SUPER_FM_SC?/;
-#EXTINF:-1 group-title="🇹🇷 | 🔊 | RADYO CH"   tvg-id="superFM2.tr"            tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/super-2-fm.jpg"                        ,Super FM2
-https://25483.live.streamtheworld.com/SUPER2_SC?/;
-
-#EXTINF:-1 group-title="🇹🇷 | 🔊 | RADYO CH"   tvg-id="Metropol Fm"            tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/metropol-fm.jpg"                       ,Metropol FM Almanya
-https://stream1.mfm.plexpark.com/radio/8000/simulcast-berlin-sd-64.aac
-
-#EXTINF:-1 group-title="🇹🇷 | 🔊 | RADYO CH"   tvg-id="AHaber.tr"              tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/a-haber-radyo.jpg"                     ,A Haber Fm
-https://trkvz-radyolar.ercdn.net/ahaberradyo/playlist.m3u8
-#EXTINF:-1 group-title="🇹🇷 | 🔊 | RADYO CH"   tvg-id="NTV.tr"                 tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/ntv-radyo.jpg"                         ,NTV Radyo
-http://ntvrdfms.radyotvonline.com/smil/smil:ntvradyo.smil/playlist.m3u8
-#EXTINF:-1 group-title="🇹🇷 | 🔊 | RADYO CH"   tvg-id="CNNTURK.tr"             tvg-logo="https://www.canliradyodinle.fm/wp-content/uploads/cnn-turk-dinle.jpg"                    ,CNN TURK FM
-https://moondigitaledge2.radyotvonline.net/cnnturk/playlist.m3u8
-
 
 
 
