@@ -30,7 +30,8 @@
 #https://tgn.bozztv.com/dvrfl05/gin-trt1eu/index.m3u8
 #http://116.202.238.88/TRT1_TR/index.m3u8
 #https://trt.daioncdn.net/trt-1/master.m3u8?app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2
-https://trt.daioncdn.net/trt-1/master.m3u8?app=e435840d-2653-45a3-afef-082d4ea998f3
+#https://trt.daioncdn.net/trt-1/master.m3u8?app=e435840d-2653-45a3-afef-082d4ea998f3
+https://tv-trt1.medya.trt.com.tr/master_1440.m3u8
 
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="TRT2.tr"                tvg-logo="https://i.imgur.com/iOCQdyD.png"                                                         ,TRT 2
@@ -74,7 +75,8 @@ http://116.202.238.88/FOXTV_TR/index.m3u8
 #http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
 #https://trn03.tulix.tv/gt-startv/playlist.m3u8
 #http://116.202.238.88/STARTV_TR/index.m3u8
-https://github.com/ipstreet312/freeiptv/raw/refs/heads/master/ressources/tur/star.m3u8
+https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/startv/startv_720p.m3u8
+#https://github.com/ipstreet312/freeiptv/raw/refs/heads/master/ressources/tur/star.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="KanalD.tr"              tvg-logo="https://i.imgur.com/9o1atM6.png"                                                         ,KANAL D
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
@@ -135,11 +137,13 @@ http://vavoo.to/play/1478418519/index.m3u8
 #####################################################################################################################################################################################################
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="TLC.tr"                 tvg-logo="https://www.canlitv.me/poster/tlc-tv.png"                                                ,TLC
-https://dogus-live.daioncdn.net/tlc/tlc.m3u8
+#https://dogus-live.daioncdn.net/tlc/tlc.m3u8
+https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/tlc/tlc_720p.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="DMAX.tr"                tvg-logo="https://canlitv.com/kanal/logo/12979.jpg"                                                ,DMAX HD
 #https://uzunmuhalefet.serv00.net/canlitv2.php?id=12979&.m3u8
-https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+#https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/dmax/dmax_720p.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="TRTBelgeselHD.tr"       tvg-logo="https://www.canlitv.me/poster/trt-belgesel.png"                                          ,TRT BELGESEL HD
 https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/master.m3u8
@@ -337,7 +341,8 @@ https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/A_h
 #https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?&TOKEN
 #https://tgn.bozztv.com/dvrfl05/gin-cnnturk/index.m3u8
 #https://b.fulltvizle.com/cnn/playlist.m3u8
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8
+https://izle.canlitvapp.com/cnn/tracks-v1a1/mono.m3u8
+#https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8
 
 
 
