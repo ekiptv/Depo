@@ -231,27 +231,6 @@ https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Kem
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo="https://www.sdmtv.com.tr/images/sdm-tv-300x109.png"                                      ,SDM FILM TV
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="cine6.tr"               tvg-logo=""                                                                                        ,movies premier
-https://tv1.arectv30.sbs/live/bspremier1.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="cine6.tr"               tvg-logo=""                                                                                        ,movies türk
-https://tv1.arectv30.sbs/live/bsturk.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="cine6.tr"               tvg-logo=""                                                                                        ,movie stars
-https://tv1.arectv30.sbs/live/bsstars.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="cine6.tr"               tvg-logo=""                                                                                        ,smart türk
-https://tv1.arectv30.sbs/live/mvturk.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="cine6.tr"               tvg-logo=""                                                                                        ,manas tv
-http://212.42.111.152:8080/hls/manas.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="cine6.tr"               tvg-logo=""                                                                                        ,bs Action
-https://tv.arectv34.sbs/live/bsaction1.m3u8
-
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="cine6.tr"               tvg-logo=""                                                                                        ,türk sinema
-https://tv.arectv34.sbs/live/sinema2.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="cine6.tr"               tvg-logo=""                                                                                        ,türk sinema 1
-https://tv.arectv34.sbs/live/sinemayerli2.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="cine6.tr"               tvg-logo=""                                                                                        ,sinema tv
-https://tv.arectv34.sbs/live/sinema1002.m3u8
-
-
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,RIZE Türk
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
@@ -533,6 +512,25 @@ https://onehls.persiana.live/hls/stream.m3u8
 
 
 
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="cine6.tr"               tvg-logo=""                                                                                        ,movies premier
+https://tv1.arectv30.sbs/live/bspremier1.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="cine6.tr"               tvg-logo=""                                                                                        ,movies türk
+https://tv1.arectv30.sbs/live/bsturk.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="cine6.tr"               tvg-logo=""                                                                                        ,movie stars
+https://tv1.arectv30.sbs/live/bsstars.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="cine6.tr"               tvg-logo=""                                                                                        ,smart türk
+https://tv1.arectv30.sbs/live/mvturk.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="cine6.tr"               tvg-logo=""                                                                                        ,manas tv
+http://212.42.111.152:8080/hls/manas.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="cine6.tr"               tvg-logo=""                                                                                        ,bs Action
+https://tv.arectv34.sbs/live/bsaction1.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="cine6.tr"               tvg-logo=""                                                                                        ,türk sinema
+https://tv.arectv34.sbs/live/sinema2.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="cine6.tr"               tvg-logo=""                                                                                        ,türk sinema 1
+https://tv.arectv34.sbs/live/sinemayerli2.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="cine6.tr"               tvg-logo=""                                                                                        ,sinema tv
+https://tv.arectv34.sbs/live/sinema1002.m3u8
 
 
 
