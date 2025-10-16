@@ -117,12 +117,13 @@ h       8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="TLC.tr"                 tvg-logo="https://www.canlitv.me/poster/tlc-tv.png"                                                ,TLC
 #https://dogus-live.daioncdn.net/tlc/tlc.m3u8
-https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/tlc/tlc_720p.m3u8
+#https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/tlc/tlc_720p.m3u8
+https://uzunmuhalefet.serv00.net/canlitv2.php?id=11219&.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="DMAX.tr"                tvg-logo="https://canlitv.com/kanal/logo/12979.jpg"                                                ,DMAX HD
-#https://uzunmuhalefet.serv00.net/canlitv2.php?id=12979&.m3u8
+https://uzunmuhalefet.serv00.net/canlitv2.php?id=12979&.m3u8
 #https://dogus-live.daioncdn.net/dmax/dmax.m3u8
-https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/dmax/dmax_720p.m3u8
+#https://emmazbvkkf.turknet.ercdn.net/cnifuowzza/dmax/dmax_720p.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="TRTBelgeselHD.tr"       tvg-logo="https://www.canlitv.me/poster/trt-belgesel.png"                                          ,TRT BELGESEL HD
 https://d2xwn494f2lep.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/master.m3u8
@@ -1249,6 +1250,18 @@ http://cdn-gzcspor.yayin.com.tr/gzcspor/gzcspor/playlist.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,EKOL SPORT
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,EKOL SPORT
+https://uzunmuhalefet.serv00.net/canlitv2.php?id=13433&.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,NEO HABER TV
+https://uzunmuhalefet.serv00.net/canlitv2.php?id=13436&.m3u8
+
+
+
+
+
+
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,HT SPOR
 https://ciner-live.ercdn.net/htspor/htspor.m3u8
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Ht_Spor.m3u8
@@ -6466,6 +6479,8 @@ https://github.com/ipstreet312/freeiptv/raw/refs/heads/master/ressources/tur/sta
 https://demiroren.daioncdn.net/teve2/teve2.m3u8?ce=3&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL YDK" tvg-id="TV2.tr"                 tvg-logo="https://i.imgur.com/rsoSLih.png"                                                         ,TEVE2
 https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YDK" tvg-id="TV2.tr"                 tvg-logo="https://i.imgur.com/rsoSLih.png"                                                         ,TEVE2
+https://uzunmuhalefet.serv00.net/canlitv2.php?id=12984&.m3u8
 
 #####################################################################################################################################################################################################
 #######    ALMAN KANALLARI                                               ############################################################################################################################
