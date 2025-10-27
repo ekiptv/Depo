@@ -14,7 +14,8 @@
 
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,TRT 1
-https://tv-trt1.medya.trt.com.tr/master_1440.m3u8
+#https://tv-trt1.medya.trt.com.tr/master_1440.m3u8
+https://tv-trt1.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="TRT2.tr"                tvg-logo="https://i.imgur.com/iOCQdyD.png"                                                         ,TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
