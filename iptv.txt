@@ -1,4 +1,18 @@
-#EXTM3U 
+#EXTM3U
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="TRT1.tr"                tvg-logo="https://www.canlitv.me/poster/trt1.png"                                                  ,TRT 1
@@ -65,7 +79,6 @@ https://demiroren.daioncdn.net/teve2/teve2.m3u8?ce=3&app=6aab838a-437e-4a1b-bbd0
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="360.tr"                 tvg-logo="https://i.imgur.com/agn47sQ.png"                                                         ,360
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-#https://tv.ensonhaber.com/tv360/tv360_720p.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id"tytturk.tr"              tvg-logo=""                                                                                        ,TYT TURK
 #https://cdn-tytturk.yayin.com.tr/tytturk/tracks-v1a1/mono.ts.m3u8
@@ -147,8 +160,7 @@ https://viamotionhsi.netplus.ch/live/eds/eurod/browser-dash/eurod.mpd
 
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,CHANNEL 6
-#https://cdn4.yayin.com.tr/channel6tv/tracks-v1a1/mono.ts.m3u8
-https://cdn.yayin.com.tr/channel6tv/tracks-v1a1/mono.m3u8
+https://cdn4.yayin.com.tr/channel6tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,ONS TV
 #https://cdn4.yayin.com.tr/onstv/tracks-v1a1/mono.ts.m3u8
@@ -157,6 +169,8 @@ http://cdn-onstv.yayin.com.tr/onstv/tracks-v1a1/mono.m3u8
 https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,cine 1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,cine 5
+https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="cine6.tr"               tvg-logo=""                                                                                        ,ARZU FILM TV
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Yesilcam_Tv.m3u8
@@ -199,6 +213,9 @@ https://uzunmuhalefet.serv00.net/canlitv2.php?id=12969&.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Anadolu Dost TV
 https://uzunmuhalefet.serv00.net/canlitv2.php?id=13331&.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,ART
+http://uzunmuhalefet.serv00.net/canlitv2.php?id=71&.m3u8
+
 #EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id=""                       tvg-logo="https://canlitv.center/channels/deniz-postasi-tv.png"                                  ,DENIZPOSTASI
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
 #EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id=""                       tvg-logo="https://www.canlitv.me/poster/konya-olay-tv-canli.png"                                 ,KONYA OLAY TV
@@ -303,7 +320,7 @@ https://github.com/ipstreet312/freeiptv/raw/refs/heads/master/ressources/tur/ntv
 #https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/NTV.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo="https://canlitv.center/channels/kanal24.png"                                             ,24 HD
-https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/playlist.m3u8
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 #https://tv.ensonhaber.com/tv24/tv24_720p.m3u8
 #https://ensonhaber-live.ercdn.net/tv24/tv24.m3u8
 #https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/24_Tv.m3u8
@@ -405,6 +422,248 @@ http://radyo.yayin.com.tr:6227/stream
 #####################################################################################################################################################################################################
 #####################################################################################################################################################################################################
 
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,TELEON
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/teleon.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,EURO 90
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/euro90tv.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,TV KAYSERI
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/tvkayseri.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,SERHAT TV
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/serhattv.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,BIZIM BERGAMA
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/bizimbergamatv.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,BASKA TV
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/baskatv-kick.m3u8
+
+
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,BIZIMEV
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/diger/bizimevtv.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,KRAL POP
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/diger/kral-pop.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,MILLI PIYANGO
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/diger/milli-piyango-tv.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,NATURE TIME
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/diger/naturetime.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,TGRT BELGESEL
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/diger/tgrt-belgesel.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,ASK-I NEVA
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/dini/aski-neva.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,LALEGUL
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/dini/cubbeli-ahmet.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,DIYANET TV
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/dini/diyanet-tv.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,FMTV
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/dini/fmtv.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,HUR ASYA
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/dini/hur-asya-tv.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,HUZUR PINARI
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/dini/huzur-pinari.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,MPL TV
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/dini/mpl-tv.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,NUR TV
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/dini/nur-tv.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,SEMERKAND TV
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/dini/semerkand-tv.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,VAV TV
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/dini/vav-tv.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,FILM ASKIYON
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/film/aksiyon-filmleri.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,FILM ARZU FILM
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/film/arzu-film.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,FILM FILM ATOLYESI
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/film/film-atolyesi.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,FILM GULSAH 
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/film/gulsah-film.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,FILM KEMAL SUNAL
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/film/kemal-sunal-filmleri.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,FILM KORKU
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/film/korku-filmleri.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,FILM TAFF
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/film/taff-pictures.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,FILM TURKFILMLERI
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/film/turk-filmleri.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,DIZI ARIZA
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/dizi/ariza.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,DIZI ARKADASIM HOSGELDIN
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/dizi/arkadasim-hosgeldin.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,DIZI ASKI MEMNU
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/dizi/aski-memnu.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,DIZI AVRUPA YAKASI
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/dizi/avrupa-yakasi.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,DIZI AZIZ
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/dizi/aziz.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,DIZI BEHZAT C
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/dizi/behzatc.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,DIZI CENNET MAHALLESI
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/dizi/cennet-mahallesi.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,DIZI COCUKLAR DUYMASIN
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/dizi/cocuklar-duymasin.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,DIZI DUDAKTAN KALBE
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/dizi/dudaktan-kalbe.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,DIZI EMRET KOMUTANIM
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/dizi/emret-komutanim.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,DIZI GONUL DAGI
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/dizi/gonul-dagi.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,DIZI GULDUR GULDUR SHOW
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/dizi/guldur-guldur.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,DIZI HZ YUSUF
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/dizi/hzyusuf.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,DIZI INCI TANELERI
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/dizi/inci-taneleri.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,DIZI KISMETSE OLUR
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/dizi/kismetse-olur.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,DIZI KIZILCIK SERBETI
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/dizi/kizilcik-serbeti.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,DIZI KOAG
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/dizi/koag.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,DIZI KUDUS FATIHI
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/dizi/kudus-fatihi.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,DIZI KURTLAR VADISI
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/dizi/kurtlar-vadisi.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,DIZI KURTLAR VADISI PUSU
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/dizi/kvpusu.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,DIZI LEYLA ILE MECNUN
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/dizi/leyla-ile-mecnun.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,DIZI FETIHLER SULTANI
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/dizi/mehmed.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,DIZI MUHTESEM YUZYIL
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/dizi/muhtesem-yuzyil.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,DIZI MUHTESEM YUZYIL KOSEM
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/dizi/my-kosem.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,DIZI SAKARYA FIRAT
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/dizi/sakarya-firat.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,DIZI TOLG SHOW
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/dizi/tolgshow-filtresiz.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,DIZI YALAN DUNYA
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/dizi/yalan-dunya.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,DIZI YAPRAK DOKUMU
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/dizi/yaprak-dokumu.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,DIZI YEDI NUMARA
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/dizi/yedi-numara.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,DIZI ZENGIN KIZ FAKIR OGLAN
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/dizi/zkfo.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,HABER 24 TV
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/haber/24tv.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,HABER a HABER
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/dizi/ahaber.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,HABER AKIT TV
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/haber/akit-tv.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,HABER a PARA
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/haber/apara.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,HABER BENGUTURK
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/haber/benguturk.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,HABER BLOOMBERG ht
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/haber/bloomberght.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,HABER BUSINESS CH
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/haber/business-channel-turk.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,HABER cnbc e
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/haber/cnbc-e.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,HABER CNN TURK
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/haber/cnnturk.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,HABER EKO TURK
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/haber/ekoturk.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,HABER FLASH HABER
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/haber/flash-haber.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,HABER HABERGLOBAL
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/haber/haberglobal.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,HABER HABERTURK
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/haber/haberturk.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,HABER HALK TV
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/haber/halktv.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,HABER KRTTV
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/haber/krttv.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,HABER LIDER HABER
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/haber/lider-haber.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,HABER NTV
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/haber/ntv.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,HABER SOZCU TV
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/haber/sozcu-tv.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,HABER TGRT HABER
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/haber/tgrt-haber.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,HABER TRT HABER
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/haber/trthaber.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,HABER TURKIYE GAZETESI
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/haber/turkiye-gazetesi.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,HABER TV 100
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/haber/tv100.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,HABER TV NET
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/haber/tvnet.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,HABER ULKE TV
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/haber/ulke-tv.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,HABER ULUSAL KANAL
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/haber/ulusal-kanal.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,SPOR a SPOR
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/spor/aspor.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,SPOR  BEINSPORTHABER
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/spor/bein-sports-haber.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,SPOR HT SPOR
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/spor/htspor.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,SPOR TAY TV
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/spor/tay-tv.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,SPOR TJK TV
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/spor/tjk-tv.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,YEREL ABB TV
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/yerel/abb-tv.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,YEREL KANAL 47
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/yerel/kanal47.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,YEREL NIL RTV
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/yerel/nil-rtv.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,YEREL TELENEWS
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/yerel/telenews-tv.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,COCUK AKILLI ARABALAR
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/cocuk/akilli-arabalar.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,COCUK BAYKUS HOPHOP
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/cocuk/baykus-hophop.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,COCUK BEBE DINO
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/cocuk/bebe-dino.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,COCUK BEBEK SARKILARI
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/cocuk/bebek-sarkilari.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,COCUK BIBERCIK TV
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/cocuk/bibercik-tv.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,COCUK BOB THE TRAIN
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/cocuk/bob-the-train.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,COCUK DIYANET COCUK
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/cocuk/diyanet-cocuk.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,COCUK GUMBALL
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/cocuk/gumball.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,COCUK ISTANBUL MUHAFIZLARI
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/cocuk/istanbul-muhafizlari.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,COCUK KRAL SAKIR
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/cocuk/kral-sakir-cn.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,COCUK KRAL SAKIR 2
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/cocuk/kral-sakir.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,COCUK KUCUK KAMYON
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/cocuk/kucuk-kamyon-leo.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,COCUK KUKULI TV
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/cocuk/kukuli-tv.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,COCUK MINI BEBE
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/cocuk/mini-bebe.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,COCUK MUTLU COCUK
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/cocuk/mutlu-cocuk.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,COCUK NILOYA
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/cocuk/niloya.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,COCUK PEPPA PIG
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/cocuk/peppa-pig.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,COCUK PIJA MASKELILER
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/cocuk/pijamaskeliler.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,COCUK TELE MINI
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/cocuk/tele-mini.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,COCUK TOMBIK PANDA
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/cocuk/tombik-panda.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,COCUK TRANSFORMERS
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/cocuk/transformers.m3u8
 
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="persinatv.tr"           tvg-logo="https://www.persianagroup.tv/open-graph-image.png"                                       ,Perisina TURK
@@ -437,6 +696,91 @@ https://4kuhls.persiana.live/hls/stream.m3u8
 https://familyhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="persinatv.tr"           tvg-logo="https://www.persianagroup.tv/open-graph-image.png"                                       ,Perisina One
 https://onehls.persiana.live/hls/stream.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,SLOW KARADENIZ TV
+https://yayin.slowkaradeniztv.com:3390/hybrid/play.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,RIZE TURK TV
+https://yayin.rizeturk.com:3777/hybrid/play.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,KANAL 53
+https://kanal53.ozelip.com:3448/hybrid/play.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,1 TV
+http://cdn4.yayin.com.tr/1tvtr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,TV ?
+https://ip44.radyotelekomtv.com:3958/stream/play.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,ESFA TV
+https://host.onlineradyotv.net:8081/esfatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,MAKSAT TV
+https://ip44.radyotelekomtv.com:3831/stream/play.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,EKOL SPORT
+https://ekoltv-live.ercdn.net/ekolsport/ekolsport_1080p.m3u8?autoplay=1
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,TV36
+http://cdn4.yayin.com.tr/tv36cinema/video.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,YENICAG
+https://live.euromediacenter.com/yenicagtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,TURKISH PRESS
+https://live.euromediacenter.com/turkishpress/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,TELENEWS
+https://cdn-telenews.yayin.com.tr/telenews/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,TV YT?
+http://104.238.23.215/yt.php?ID=UCCfTktnzWK__FUN4gj0zIpA&ext=.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,TV ?2
+https://uzunmuhalefet.serv00.net/canlitv2.php?id=13341&.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,IMAMHATIP TV
+https://live.euromediacenter.com/imamhatiptv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,ORT TV
+https://clvd26.socialsmart.tv/orttv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,FB TV
+https://fbtv.fenerbahce.org/fenerbahcetv.stream/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,DIZI ZV
+http://193.27.209.122/dizi/index.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,AKDENIZ Tv
+https://cdn-akdeniztv.yayin.com.tr/akdeniztv/akdeniztv/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,ASKER TV
+https://askertv.canliyayin.tv.tr/giatv/giatv-asker/asker/chunks.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,MALATA PENCERE TV
+https://cdn-malatyapencere.yayin.com.tr/malatyapencere/malatyapencere/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,EXPOVIZYON
+http://cdn-expovizyontv.yayin.com.tr/expovizyontv/expovizyontv/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,HABER RIZE
+http://cdn4.yayin.com.tr/haberrize/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,MEGA TV
+http://145.239.37.125:20458/megatv/megatv/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,YAGMUR TV
+http://145.239.37.125:20458/yagmur/yagmur/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,FORA MUZIK
+http://145.239.37.125:20458/foramuzik/foramuzik/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,Tv ?12
+https://ip100.radyotelekomtv.com:3968/stream/play.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,BULTURK
+https://host.onlineradyotv.net:8081/bulturktv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,DEVELI
+http://145.239.37.125:20458/develi/develi/playlist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,YILDIZ EN
+https://cdn-yildizentv.yayin.com.tr/yildizentv/yildizentv/chunklist.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,NOW PLAY
+http://cdn18.yayin.com.tr/nowplay/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,AL JAZIREE
+https://live-hls-web-aja.getaj.net/AJA/01.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,BEINSPORT HABER
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/6430
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -566,8 +910,7 @@ http://cdn-arimusic.yayin.com.tr/arimusic/arimusic/playlist.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,DIZI CH
 https://cdn1-dizichannelhd.yayin.com.tr/dizichannelhd/dizichannelhd/playlist.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Dizi TV
-https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
+
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="dizitv.tr"              tvg-logo=""                                                                                        ,DIZI TV
 https://vavoo.to/play/3216602537/index.m3u8
 
@@ -1097,6 +1440,12 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/chill-tv/playlist/0.m3u
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,MUZIK
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/muziktv/playlist/0.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,Dizi TV
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,CIZGIFILM
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/cizgi-film-tv/playlist/1.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo="https://www.canlitv.me/poster/vav-tv.png"                                                ,VAV ILAHILER
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/ilahiler-tv/playlist/0.m3u8
