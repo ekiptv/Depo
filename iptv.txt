@@ -344,6 +344,8 @@ https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/baskatv-ki
 https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/diger/bizimevtv.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,KRAL POP
 https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/diger/kral-pop.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,KORKU HIKAYELERI
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/diger/korku-hikayeleri.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,MILLI PIYANGO
 https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/diger/milli-piyango-tv.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,NATURE TIME
@@ -372,6 +374,9 @@ https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/dini/semerkan
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,VAV TV
 https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/dini/vav-tv.m3u8
 
+
+
+
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,FILM ASKIYON
 https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/film/aksiyon-filmleri.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,FILM ARZU FILM
@@ -382,6 +387,8 @@ https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/film/film-ato
 https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/film/gulsah-film.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,FILM KEMAL SUNAL
 https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/film/kemal-sunal-filmleri.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,FILM KEMAL SUNAL 2
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/film/kemal-sunal-sahneleri.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,FILM KORKU
 https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/film/korku-filmleri.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,FILM TAFF
