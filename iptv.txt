@@ -113,31 +113,55 @@ https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="EuroD.tr"               tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/euro-d.png"                           ,EURO D
 https://viamotionhsi.netplus.ch/live/eds/eurod/browser-dash/eurod.mpd
 
-
-
-
-
-
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/"                                     ,CHANNEL 6
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/CHANNEL6TV.png"                       ,CHANNEL 6
 https://cdn4.yayin.com.tr/channel6tv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/"                                     ,ONS TV
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/ONS.png"                              ,ONS TV
 http://cdn-onstv.yayin.com.tr/onstv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/"                                     ,Bi KANAL
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/bikanal.png"                          ,Bi KANAL
 https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/playlist.m3u8
 
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/"                                     ,cine 1
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/bikanal.png"                          ,cine 1
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/"                                     ,cine 5
 https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="cine6.tr"               tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/"                                     ,ARZU FILM TV
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,FILM ASKIYON
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/film/aksiyon-filmleri.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="cine6.tr"               tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/ArzuFilm.jpeg"                        ,FILM ARZU FILM
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/film/arzu-film.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="cine6.tr"               tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/ArzuFilm.jpeg"                        ,FILM ARZU FILM
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Yesilcam_Tv.m3u8
 
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="cine6.tr"               tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/"                                     ,GULSAH FILM TV
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="cine6.tr"               tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/Gulsahfilm.jpeg"                      ,FILM GULSAH
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Kemal_Sunal_Tv.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="cine6.tr"               tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/Gulsahfilm.jpeg"                      ,FILM GULSAH 
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/film/gulsah-film.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/FilmAtolesi.jpeg"                     ,FILM FILM ATOLYESI
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/film/film-atolyesi.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/saban-tv.png"                         ,FILM KEMAL SUNAL
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/film/kemal-sunal-filmleri.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/saban-tv.png"                         ,FILM KEMAL SUNAL 2
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/film/kemal-sunal-sahneleri.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,FILM KORKU
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/film/korku-filmleri.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/TAFFproduction.jpeg"                  ,FILM TAFF
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/film/taff-pictures.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/TURKFILMLERI.jpg"                     ,FILM TURKFILMLERI
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/film/turk-filmleri.m3u8
+
 
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo="https://www.sdmtv.com.tr/images/sdm-tv-300x109.png"                                      ,SDM FILM TV
@@ -152,7 +176,7 @@ http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="isvicretv.tr"           tvg-logo="https://www.isvicretv.com/upload/tema/20220228__5564691424.jpg"                          ,ISVICRE TV	
 https://i41.ozelip.com:3269/hybrid/play.m3u8
 
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="cine6.tr"               tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/"                                     ,TABII TV
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="cine6.tr"               tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/tabiitv.png"                          ,TABII TV
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="kanalavrupa.tr"         tvg-logo="https://www.canlitv.me/poster/kanal-avrupa.png"                                          ,KANAL AVRUPA	
@@ -176,14 +200,6 @@ https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="kanal19.tr"             tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/kanal-19.png"                         ,KANAL 19	
 https://live.euromediacenter.com/kanal19/index.m3u8
 
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/"                                     ,Torba TV
-https://uzunmuhalefet.serv00.net/canlitv2.php?id=12969&.m3u8
-
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/"                                     ,Anadolu Dost TV
-https://uzunmuhalefet.serv00.net/canlitv2.php?id=13331&.m3u8
-
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/"                                     ,ART
-http://uzunmuhalefet.serv00.net/canlitv2.php?id=71&.m3u8
 
 #EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/deniz-postasi-tv.png"               ,DENIZPOSTASI
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
@@ -210,20 +226,12 @@ https://host.onlineradyotv.net:8081/sdmtv4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo="https://www.sdmtv.com.tr/images/sdm-tv-300x109.png"                                      ,SDM HITs
 https://host.onlineradyotv.net:8081/sdmtv5/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH" tvg-id=""                       tvg-logo=""                                                                                        ,NOW CINEMA
-https://a8.radyotelekom.com.tr:3881/hybrid/play.m3u8
-
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH" tvg-id=""                       tvg-logo=""                                                                                        ,Htv cinema
-https://a8.radyotelekom.com.tr:3761/hybrid/play.m3u8
 
 #EXTINF:-1  group-title="🇹🇷 | ULUSAL CH" tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/cine5-tv.png"                         ,CINE 5
 https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/"                                     ,BIR TV
 https://edge.socialsmart.tv/birtv/bant1/chunks.m3u8
-
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/"                                     ,ENGELSIZ TV
-https://cdn-engelsiztv.yayin.com.tr/engelsiztv/engelsiztv/chunklist.m3u8
 
 
 
@@ -479,6 +487,32 @@ https://a8.radyotelekom.com.tr:3011/hybrid/play.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo=""                                                                                        ,FLUX TV
 https://a8.radyotelekom.com.tr:3877/stream/play.m3u8
 
+
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/"                                     ,Torba TV
+https://uzunmuhalefet.serv00.net/canlitv2.php?id=12969&.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/"                                     ,Anadolu Dost TV
+https://uzunmuhalefet.serv00.net/canlitv2.php?id=13331&.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/"                                     ,ART
+http://uzunmuhalefet.serv00.net/canlitv2.php?id=71&.m3u8
+
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH" tvg-id=""                       tvg-logo=""                                                                                        ,NOW CINEMA
+https://a8.radyotelekom.com.tr:3881/hybrid/play.m3u8
+
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH" tvg-id=""                       tvg-logo=""                                                                                        ,Htv cinema
+https://a8.radyotelekom.com.tr:3761/hybrid/play.m3u8
+
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/"                                     ,ENGELSIZ TV
+https://cdn-engelsiztv.yayin.com.tr/engelsiztv/engelsiztv/chunklist.m3u8
+
+
+
+
+
+
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  ,DISCOVERY
 https://217.30.11.74/e/500.m3u8
 
@@ -573,6 +607,34 @@ https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/dini/semerkan
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,VAV TV
 https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/dini/vav-tv.m3u8
 
+
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,FILM ASKIYON
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/film/aksiyon-filmleri.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id="cine6.tr"               tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/ArzuFilm.jpeg"                        ,FILM ARZU FILM
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/film/arzu-film.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id="cine6.tr"               tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/Gulsahfilm.jpeg"                      ,FILM GULSAH 
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/film/gulsah-film.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/FilmAtolesi.jpeg"                     ,FILM FILM ATOLYESI
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/film/film-atolyesi.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/saban-tv.png"                         ,FILM KEMAL SUNAL
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/film/kemal-sunal-filmleri.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/saban-tv.png"                         ,FILM KEMAL SUNAL 2
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/film/kemal-sunal-sahneleri.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo=""                                                                                        ,FILM KORKU
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/film/korku-filmleri.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/TAFFproduction.jpeg"                  ,FILM TAFF
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/film/taff-pictures.m3u8
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL YT"  tvg-id""                        tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/TURKFILMLERI.jpg"                     ,FILM TURKFILMLERI
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/film/turk-filmleri.m3u8
 
 
 
