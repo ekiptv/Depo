@@ -132,6 +132,9 @@ https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,FILM ASKIYON
 https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/film/aksiyon-filmleri.m3u8
 
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="cine6.tr"               tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/ArzuFilm.jpeg"                        ,FILM Topkapi FILM
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/film/topkapi-film.m3u8
+
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="cine6.tr"               tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/ArzuFilm.jpeg"                        ,FILM ARZU FILM
 https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/film/arzu-film.m3u8
 
@@ -17882,3 +17885,4 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49675
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49676
 #EXTINF:-1 tvg-id="" tvg-name="RU: Ювелирочка" tvg-logo="" group-title="RU: RUSSIA",RU: Ювелирочка
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49677
+
