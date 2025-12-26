@@ -132,9 +132,6 @@ https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo=""                                                                                        ,FILM ASKIYON
 https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/film/aksiyon-filmleri.m3u8
 
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="cine6.tr"               tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/ArzuFilm.jpeg"                        ,FILM Topkapi FILM
-https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/film/topkapi-film.m3u8
-
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="cine6.tr"               tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/ArzuFilm.jpeg"                        ,FILM ARZU FILM
 https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/main/TR/film/arzu-film.m3u8
 
@@ -241,7 +238,7 @@ https://edge.socialsmart.tv/birtv/bant1/chunks.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="trthaber.tr"            tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/TRTHABER.png"                         ,TRT HABER HD
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL YD"  tvg-id="ahaber.tr"              tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/AHABER.png"                           ,A HABER HD
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="ahaber.tr"              tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/AHABER.png"                           ,A HABER HD
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/A_haber.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="cnnturk.tr"             tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/cnnturk.png"                          ,CNN TÜRK HD
@@ -336,37 +333,6 @@ http://radyo.yayin.com.tr:6227/stream
 #####################################################################################################################################################################################################
 #####################################################################################################################################################################################################
 
-
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="persinatv.tr"           tvg-logo="https://www.persianagroup.tv/open-graph-image.png"                                       ,Perisina TURK
-https://turkhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="persinatv.tr"           tvg-logo="https://www.persianagroup.tv/open-graph-image.png"                                       ,Perisina Cinema
-https://cinehls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="persinatv.tr"           tvg-logo="https://www.persianagroup.tv/open-graph-image.png"                                       ,Perisina Korea
-https://korhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="persinatv.tr"           tvg-logo="https://www.persianagroup.tv/open-graph-image.png"                                       ,Perisina Rap
-https://raphls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="persinatv.tr"           tvg-logo="https://www.persianagroup.tv/open-graph-image.png"                                       ,Perisina iran
-https://irhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="persinatv.tr"           tvg-logo="https://www.persianagroup.tv/open-graph-image.png"                                       ,Perisina Comedy
-https://comedyhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="persinatv.tr"           tvg-logo="https://www.persianagroup.tv/open-graph-image.png"                                       ,Perisina Eu
-https://euhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="persinatv.tr"           tvg-logo="https://www.persianagroup.tv/open-graph-image.png"                                       ,Perisina SCI
-https://scihls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="persinatv.tr"           tvg-logo="https://www.persianagroup.tv/open-graph-image.png"                                       ,Perisina Latino
-https://latinohls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="persinatv.tr"           tvg-logo="https://www.persianagroup.tv/open-graph-image.png"                                       ,Perisina Junior
-https://junhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="persinatv.tr"           tvg-logo="https://www.persianagroup.tv/open-graph-image.png"                                       ,Perisina Song
-https://sonhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="persinatv.tr"           tvg-logo="https://www.persianagroup.tv/open-graph-image.png"                                       ,Perisina Nostalgia
-https://noshls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="persinatv.tr"           tvg-logo="https://www.persianagroup.tv/open-graph-image.png"                                       ,Perisina 4 Kurdisch
-https://4kuhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="persinatv.tr"           tvg-logo="https://www.persianagroup.tv/open-graph-image.png"                                       ,Perisina Family
-https://familyhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="persinatv.tr"           tvg-logo="https://www.persianagroup.tv/open-graph-image.png"                                       ,Perisina One
-https://onehls.persiana.live/hls/stream.m3u8
 
 
 
@@ -1332,6 +1298,40 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/p
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/stream03/streamPlaylist.m3u8
 #EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,SKY FOLK
 http://skyfolk.mk/live.m3u8
+
+
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="persinatv.tr"           tvg-logo="https://www.persianagroup.tv/open-graph-image.png"                                       ,Perisina TURK
+https://turkhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="persinatv.tr"           tvg-logo="https://www.persianagroup.tv/open-graph-image.png"                                       ,Perisina Cinema
+https://cinehls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="persinatv.tr"           tvg-logo="https://www.persianagroup.tv/open-graph-image.png"                                       ,Perisina Korea
+https://korhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="persinatv.tr"           tvg-logo="https://www.persianagroup.tv/open-graph-image.png"                                       ,Perisina Rap
+https://raphls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="persinatv.tr"           tvg-logo="https://www.persianagroup.tv/open-graph-image.png"                                       ,Perisina iran
+https://irhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="persinatv.tr"           tvg-logo="https://www.persianagroup.tv/open-graph-image.png"                                       ,Perisina Comedy
+https://comedyhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="persinatv.tr"           tvg-logo="https://www.persianagroup.tv/open-graph-image.png"                                       ,Perisina Eu
+https://euhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="persinatv.tr"           tvg-logo="https://www.persianagroup.tv/open-graph-image.png"                                       ,Perisina SCI
+https://scihls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="persinatv.tr"           tvg-logo="https://www.persianagroup.tv/open-graph-image.png"                                       ,Perisina Latino
+https://latinohls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="persinatv.tr"           tvg-logo="https://www.persianagroup.tv/open-graph-image.png"                                       ,Perisina Junior
+https://junhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="persinatv.tr"           tvg-logo="https://www.persianagroup.tv/open-graph-image.png"                                       ,Perisina Song
+https://sonhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="persinatv.tr"           tvg-logo="https://www.persianagroup.tv/open-graph-image.png"                                       ,Perisina Nostalgia
+https://noshls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="persinatv.tr"           tvg-logo="https://www.persianagroup.tv/open-graph-image.png"                                       ,Perisina 4 Kurdisch
+https://4kuhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="persinatv.tr"           tvg-logo="https://www.persianagroup.tv/open-graph-image.png"                                       ,Perisina Family
+https://familyhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="persinatv.tr"           tvg-logo="https://www.persianagroup.tv/open-graph-image.png"                                       ,Perisina One
+https://onehls.persiana.live/hls/stream.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id""                        tvg-logo=""                                                                                      ,4U TV
+https://hls.4utv.live/hls/stream.m3u8
 
 #####################################################################################################################################################################################################
 #####################################################################################################################################################################################################
@@ -17885,4 +17885,3 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49675
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49676
 #EXTINF:-1 tvg-id="" tvg-name="RU: Ювелирочка" tvg-logo="" group-title="RU: RUSSIA",RU: Ювелирочка
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49677
-
