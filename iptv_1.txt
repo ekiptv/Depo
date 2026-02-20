@@ -25,7 +25,7 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="TV85.tr"                tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/TV8BUCUK.png"                         ,TV 8 bucuk
-https://tv.arectv13.sbs/live/tv85.m3u8
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="Fox.tr"                 tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/NOW.png"                              ,NOW
 http://116.202.238.88/FOXTV_TR/index.m3u8
@@ -34,13 +34,15 @@ http://116.202.238.88/FOXTV_TR/index.m3u8
 http://116.202.238.88/STARTV_TR/index.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="KanalD.tr"              tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/KANALD.png"                           ,KANAL D
-https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&amp;ce=3
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web
+
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="ShowTV.tr"              tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/SHOWTV.png"                           ,SHOW TV
-https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
+#https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
+https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?app=showtv_web
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="showmax.tr"             tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/SHOWMAX.png"                          ,SHOW MAX
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="ATV.tr"                 tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/ATV.png"                              ,ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
@@ -49,7 +51,8 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="TV2.tr"                 tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/TEVE2.png"                            ,TEVE2
-https://demiroren.daioncdn.net/teve2/teve2.m3u8?ce=3&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd
+#https://demiroren.daioncdn.net/teve2/teve2.m3u8?ce=3&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd
+https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2_1080p.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="360.tr"                 tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/360TV.png"                            ,360
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
@@ -92,7 +95,7 @@ http://162.212.179.33/dvrfl05/gin-atvavrupa/playlist.m3u8
 https://viamotionhsi.netplus.ch/live/eds/showturk/browser-dash/showturk.mpd
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="Fox.tr"                 tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/NOW.png"                              ,NOW TURK
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="EuroSTAR.tr"            tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/euro-star.png"                        ,EUROSTAR
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8
@@ -122,7 +125,7 @@ http://cdn-onstv.yayin.com.tr/onstv/tracks-v1a1/mono.m3u8
 https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/playlist.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/bikanal.png"                          ,cine 1
-https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
+https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8?autoplay=1
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/"                                     ,cine 5
 https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8
@@ -229,9 +232,14 @@ https://tv-trthaber.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="ahaber.tr"              tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/AHABER.png"                           ,A HABER HD
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/A_haber.m3u8
+#http://116.202.238.88/AHABER_TR/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="cnnturk.tr"             tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/cnnturk.png"                          ,CNN TÜRK HD
 https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/Cnn_Turk.m3u8
+#http://116.202.238.88/CNNTURK_TR/tracks-v1a1/index.m3u8
+
+
+
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id"Tv100.tr"                tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/TV100.png"                            ,TV100
 https://tv100-live.daioncdn.net/tv100/tv100_720p.m3u8
@@ -314,7 +322,7 @@ http://win8.yayin.com.tr/haber61tv/smil:haber61tv.smil/playlist.m3u8
 https://github.com/rideordie16/YouTube/raw/main/haber/apara.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/CNBCE.png"                            ,CNBC e
-https://uzunmuhalefet.serv00.net/canlitv2.php?id=13406&.m3u8
+https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id""                        tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/BLOOMBERGHT.png"                      ,BLOOMBERG HT
 https://tv.ensonhaber.com/bloomberght/bloomberght_720p.m3u8
@@ -719,6 +727,8 @@ https://stream2.kanald.ro/iphone/knd2-live_low/index.m3u8
 
 #EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/aksutv.png"                           ,AKSU TV
 https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id=""                       tvg-logo=""                                                                                        ,SU TV
+https://live.artidijitalmedya.com/artidijital_sutv/sutv/playlist.m3u8
 #EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/anadolunet.png"                       ,ANADOLU NET
 https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u8
 #EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/artworld.png"                         ,ART WORLD
