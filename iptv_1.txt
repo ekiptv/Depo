@@ -121,10 +121,11 @@ https://cdn4.yayin.com.tr/channel6tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/ONS.png"                              ,ONS TV
 http://cdn-onstv.yayin.com.tr/onstv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/bikanal.png"                          ,Bi KANAL
 https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/playlist.m3u8
+#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/bikanal.png"                        ,BI KANAL
+https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
 
-#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/bikanal.png"                          ,cine 1
+#EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/Cine1.jpg"                            ,cine 1
 https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3_output_0.m3u8?autoplay=1
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/"                                     ,cine 5
@@ -735,8 +736,7 @@ https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/playlist.m3u
 https://live.artidijitalmedya.com/artidijital_artworld/artworld/playlist.m3u8
 #EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/astv.png"                             ,AS TV
 https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
-#EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/bikanal.png"                          ,BI KANAL
-https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/playlist.m3u8
+
 #EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/brtv.png"                             ,BRTV
 https://live.artidijitalmedya.com/artidijital_brtv/brtv/playlist.m3u8
 #EXTINF:-1  group-title="🇹🇷 | ULUSAL CH"   tvg-id=""                       tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/CANTEMPOTV.png"                       ,CAN TEMPO TV
