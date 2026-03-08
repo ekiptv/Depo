@@ -109,6 +109,88 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49016
 #EXTINF:-1 group-title="🔞 | ADULT CH"   tvg-id=""                       tvg-logo="🔞"          ,XY mix
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49017
 
+#EXTINF:-1 ,USA ADULT 1
+http://206.212.244.71:8080/Jamesmcmillan@att.net/Jamesmcmillan@2023/215661
+#EXTINF:-1 ,USA ADULT 2
+http://206.212.244.71:8080/Jamesmcmillan@att.net/Jamesmcmillan@2023/215662
+#EXTINF:-1 ,USA ADULT 3
+http://206.212.244.71:8080/Jamesmcmillan@att.net/Jamesmcmillan@2023/215663
+#EXTINF:-1 ,USA ADULT 4
+http://206.212.244.71:8080/Jamesmcmillan@att.net/Jamesmcmillan@2023/215664
+#EXTINF:-1 ,USA ADULT 5
+http://206.212.244.71:8080/Jamesmcmillan@att.net/Jamesmcmillan@2023/215665
+#EXTINF:-1 ,USA ADULT 6
+http://206.212.244.71:8080/Jamesmcmillan@att.net/Jamesmcmillan@2023/215666
+#EXTINF:-1 ,USA ADULT 7
+http://206.212.244.71:8080/Jamesmcmillan@att.net/Jamesmcmillan@2023/215667
+#EXTINF:-1 ,USA ADULT 8
+http://206.212.244.71:8080/Jamesmcmillan@att.net/Jamesmcmillan@2023/215668
+#EXTINF:-1 ,USA ADULT 9
+http://206.212.244.71:8080/Jamesmcmillan@att.net/Jamesmcmillan@2023/215669
+#EXTINF:-1 ,USA ADULT 10
+http://206.212.244.71:8080/Jamesmcmillan@att.net/Jamesmcmillan@2023/215670
+#EXTINF:-1 ,USA ADULT 11
+http://206.212.244.71:8080/Jamesmcmillan@att.net/Jamesmcmillan@2023/215671
+#EXTINF:-1 ,USA ADULT 12
+http://206.212.244.71:8080/Jamesmcmillan@att.net/Jamesmcmillan@2023/215672
+#EXTINF:-1 ,USA ADULT 13
+http://206.212.244.71:8080/Jamesmcmillan@att.net/Jamesmcmillan@2023/215673
+#EXTINF:-1 ,USA ADULT 14
+http://206.212.244.71:8080/Jamesmcmillan@att.net/Jamesmcmillan@2023/215674
+#EXTINF:-1 ,USA ADULT 15
+http://206.212.244.71:8080/Jamesmcmillan@att.net/Jamesmcmillan@2023/215675
+#EXTINF:-1 ,USA ADULT 16
+http://206.212.244.71:8080/Jamesmcmillan@att.net/Jamesmcmillan@2023/215676
+
+http://206.212.244.71:8080/Jamesmcmillan@att.net/Jamesmcmillan@2023/215677
+
+http://206.212.244.71:8080/Jamesmcmillan@att.net/Jamesmcmillan@2023/215678
+
+http://206.212.244.71:8080/Jamesmcmillan@att.net/Jamesmcmillan@2023/215679
+
+http://206.212.244.71:8080/Jamesmcmillan@att.net/Jamesmcmillan@2023/215680
+
+
+
+
+
+
+
+
+#EXTINF:-1 ,RUS ADULT1
+http://ru.iptv.monster/play/1761/manifest.m3u8?token=623939143BE8A4B
+#EXTINF:-1 ,RUS ADULT2
+http://ru.iptv.monster/play/1762/manifest.m3u8?token=623939143BE8A4B
+#EXTINF:-1 ,RUS ADULT3
+http://ru.iptv.monster/play/1763/manifest.m3u8?token=623939143BE8A4B
+#EXTINF:-1 ,RUS ADULT4
+http://ru.iptv.monster/play/1764/manifest.m3u8?token=623939143BE8A4B
+#EXTINF:-1 ,RUS ADULT5
+http://ru.iptv.monster/play/1765/manifest.m3u8?token=623939143BE8A4B
+#EXTINF:-1 ,RUS ADULT6
+http://ru.iptv.monster/play/1766/manifest.m3u8?token=623939143BE8A4B
+#EXTINF:-1 ,RUS ADULT7
+http://ru.iptv.monster/play/1767/manifest.m3u8?token=623939143BE8A4B
+#EXTINF:-1 ,RUS ADULT8
+http://ru.iptv.monster/play/1768/manifest.m3u8?token=623939143BE8A4B
+#EXTINF:-1 ,RUS ADULT9
+http://ru.iptv.monster/play/1769/manifest.m3u8?token=623939143BE8A4B
+#EXTINF:-1 ,RUS ADULT10
+http://ru.iptv.monster/play/1770/manifest.m3u8?token=623939143BE8A4B
+#EXTINF:-1 ,RUS ADULT11
+http://ru.iptv.monster/play/1771/manifest.m3u8?token=623939143BE8A4B
+#EXTINF:-1 ,RUS ADULT12
+http://ru.iptv.monster/play/1772/manifest.m3u8?token=623939143BE8A4B
+#EXTINF:-1 ,RUS ADULT13
+http://ru.iptv.monster/play/1773/manifest.m3u8?token=623939143BE8A4B
+#EXTINF:-1 ,RUS ADULT14
+http://ru.iptv.monster/play/1774/manifest.m3u8?token=623939143BE8A4B
+#EXTINF:-1 ,RUS ADULT15
+http://ru.iptv.monster/play/1775/manifest.m3u8?token=623939143BE8A4B
+
+
+
+
 
 
 
