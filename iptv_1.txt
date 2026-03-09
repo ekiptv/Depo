@@ -7,7 +7,8 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="BEYAZTV.tr"             tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/BEYAZTV.png"                          ,BEYAZ TV
-https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3
+https://beyaztv.daioncdn.net/beyaztv/beyaztv_720p.m3u8?&sid=88c7voyezbzv&app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3
+#https://beyaztv.daioncdn.net/beyaztv/beyaztv_1080p.m3u8?&sid=88c7voyezbzv&app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3
 
 #EXTINF:-1 group-title="🇹🇷 | ULUSAL CH"  tvg-id="TV4.tr"                 tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/TV4.png"                              ,TV 4 HD
 https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
@@ -17810,5 +17811,4 @@ https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-HLS8/cctv4.m3u8
 #EXTREM #EXTINF:-1 tvg-id="canalb.ch" tvg-logo="https://picserve.netplus.ch/channels/canalbd.png",Canal B (start 1.1.2026)
 #EXTREM https://viamotionhsi.netplus.ch/live/eds/canalbd/browser-dash/canalbd.mpd
 #EXTREM #EXTINF:-1 tvg-id="canalb.ch" tvg-logo="https://picserve.netplus.ch/channels/canalbf.png",Canal B (start 1.1.2026)
-
 #EXTREM https://viamotionhsi.netplus.ch/live/eds/canalbf/browser-dash/canalbf.mpd
