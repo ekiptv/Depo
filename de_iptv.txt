@@ -1,0 +1,1022 @@
+#EXTM3U
+#EXTEPG x-tvg-url="https://www.free-epg.de/api/epg?country=DE"
+#####################################################################################################################################################################################################
+#######    ALMAN KANALLARI                                               ############################################################################################################################
+#####################################################################################################################################################################################################
+#EXTM3U 	https://raw.githubusercontent.com/josxha/german-tv-m3u/refs/heads/main/german-tv.m3u
+#EXTM3U 	https://github.com/iptv-org/iptv/blob/master/streams/de_rakuten.m3u
+#EXTM3U 	https://github.com/iptv-org/iptv/blob/master/streams/de_pluto.m3u
+#EXTM3U 	https://github.com/iptv-org/iptv/blob/master/streams/at_pluto.m3u
+#EXTM3U		https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u
+#EXTM3U 	https://gist.github.com/Axel-Erfurt/f4f87197b54776520aa430497c42e450#file-mytvlist-m3u
+#EXTM§U 	https://github.com/iptv-ch/iptv-ch.github.io/blob/master/netplus.m3u8
+#####################################################################################################################################################################################################
+
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="ARD.de"                 tvg-logo="https://download.avm.de/tv/logos/das_erste.png"               ,ARD
+https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="zdf.de"                 tvg-logo="https://download.avm.de/tv/logos/zdf.png"                     ,ZDF
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="WDR.de"                 tvg-logo="https://download.avm.de/tv/logos/wdr.png"                     ,WDR
+https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="mdr.de"                 tvg-logo="https://download.avm.de/tv/logos/mdr.png"                     ,MDR
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="ndr.de"                 tvg-logo="https://download.avm.de/tv/logos/ndr_hd.png"                  ,NDR
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="ndr.de"                 tvg-logo="https://download.avm.de/tv/logos/ndr_hd.png"                  ,NDR INT
+https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="rbb.de"                 tvg-logo="https://download.avm.de/tv/logos/rbb.png"                     ,RBB
+https://rbb-live.ard-mcdn.de/rbb/berlin/hls/de/master.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="SWR.de"                 tvg-logo="https://download.avm.de/tv/logos/swr_hd.png"                  ,SWR
+https://mcdn.swr.de/swr/swrbwd/master.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="BR.de"                  tvg-logo="https://download.avm.de/tv/logos/br_hd.png"                   ,BR
+https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="HR.de"                  tvg-logo="https://download.avm.de/tv/logos/hr_hd.png"                   ,HR
+https://hr-live.ard-mcdn.de/hr/live/hls/de/master.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="sr.de"                  tvg-logo="https://download.avm.de/tv/logos/sr.png"                      ,SR
+https://sr-live.ard-mcdn.de/sr/live/hls/de/master.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="RadioBremen.de"         tvg-logo="https://download.avm.de/tv/logos/radio_bremen.png"            ,Radio Bremen
+https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="3sat.de"                tvg-logo="https://download.avm.de/tv/logos/3sat.png"                    ,3sat
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="ARTE.de"                tvg-logo="https://download.avm.de/tv/logos/arte.png"                    ,arte
+https://arteliveext.akamaized.net/hls/live/2030993/artelive_de/master_v540.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="ARD-alpha.de"           tvg-logo="https://download.avm.de/tv/logos/ard_alpha.png"               ,ARD-Alpha
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="One.de"                 tvg-logo="https://download.avm.de/tv/logos/ard_one_hd.png"              ,ONE
+https://mcdn-one.ard.de/ardone/hls/master-stereo.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="zdfinfo.de"             tvg-logo="https://download.avm.de/tv/logos/zdf_info.png"                ,ZDF info
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="zdfneo.de"              tvg-logo="https://download.avm.de/tv/logos/zdf_neo.png"                 ,ZDF neo
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="rtl.de"                 tvg-logo="https://picserve.netplus.ch/channels/rtl.png"                 ,RTL
+#https://ma.anixa.tv/clips/stream/rtl/index.m3u8
+https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="rtl2.de"                tvg-logo="https://picserve.netplus.ch/channels/rtl2.png"                ,RTL ZWEI
+https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-HLS8/rtl2.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="rtlnitro.de"            tvg-logo="https://picserve.netplus.ch/channels/rtlnitro.png"            ,RTL nitro
+https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-HLS8/rtlnitro.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="vox.de"                 tvg-logo="https://picserve.netplus.ch/channels/vox.png"                 ,VOX
+https://viamotionhsi.netplus.ch/live/eds/vox/browser-HLS8/vox.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="pro7.de"                tvg-logo="https://picserve.netplus.ch/channels/pro7.png"                ,ProSieben HD
+#EXTREM https://viamotionhsi.netplus.ch/live/eds/pro7/browser-HLS8/pro7.m3u8
+https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="prosiebenmaxx.de" tvg-logo="https://picserve.netplus.ch/channels/prosiebenmaxx.png"              ,PRO 7 MAXX
+https://viamotionhsi.netplus.ch/live/eds/prosiebenmaxx/browser-HLS8/prosiebenmaxx.m3u8
+
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="sat1.de"                tvg-logo="https://picserve.netplus.ch/channels/sat1.png"                ,SAT.1 HD
+#EXTREM https://viamotionhsi.netplus.ch/live/eds/sateins/browser-HLS8/sateins.m3u8
+https://dash4.antik.sk/live/test_sat_eins_tizen/playlist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="sat1gold.de"            tvg-logo="https://picserve.netplus.ch/channels/sat1gold.png"            ,SAT.1 GOLD
+#EXTREM https://viamotionhsi.netplus.ch/live/eds/sat1gold/browser-HLS8/sat1gold.m3u8
+https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
+
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="tele5.de"               tvg-logo="https://picserve.netplus.ch/channels/tele5.png"               ,tele5
+#https://viamotionhsi.netplus.ch/live/eds/tele5/browser-dash/tele5.mpd
+https://viamotionhsi.netplus.ch/live/eds/tele5/browser-HLS8/tele5.m3u8
+
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="sixx.de"                tvg-logo="https://picserve.netplus.ch/channels/sixx.png"                ,sixx HD
+#EXTREM https://viamotionhsi.netplus.ch/live/eds/sixx/browser-HLS8/sixx.m3u8
+https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
+
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="kabel1.de"              tvg-logo="https://picserve.netplus.ch/channels/kabel1.png"              ,Kabel eins HD
+#EXTREM https://viamotionhsi.netplus.ch/live/eds/kabeleins/browser-HLS8/kabeleins.m3u8
+https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="kabeleinsdocu.de"       tvg-logo="https://picserve.netplus.ch/channels/kabeleinsdocu.png"       ,Kabel eins DOKU
+https://viamotionhsi.netplus.ch/live/eds/kabel1doku/browser-HLS8/kabel1doku.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="dmax.de"                tvg-logo="https://picserve.netplus.ch/channels/dmax.png"                ,DMAX CH
+https://viamotionhsi.netplus.ch/live/eds/dmax/browser-HLS8/dmax.m3u8
+
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="SRFinfo.ch"             tvg-logo="https://picserve.netplus.ch/channels/srfinfo.png"             ,SRF info HD
+https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-HLS8/srfinfo.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="SRF1.ch"                tvg-logo="https://picserve.netplus.ch/channels/srf1.png"                ,SRF1 HD
+https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-HLS8/srf1hd.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="SRF1.ch"                tvg-logo="https://picserve.netplus.ch/channels/srf2.png"                ,SRF2 HD
+https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-HLS8/srf2hd.m3u8
+
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="orf1.at"                tvg-logo="https://picserve.netplus.ch/channels/orf1.png"                ,ORF1 HD
+#https://viamotionhsi.netplus.ch/live/eds/orf1/browser-HLS8/orf1.m3u8
+https://dash2.antik.sk/live/test_orf_eins_tizen/playlist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="orf2.at"                tvg-logo="https://picserve.netplus.ch/channels/orf2.png"                ,ORF2 HD
+#https://viamotionhsi.netplus.ch/live/eds/orf2/browser-HLS8/orf2.m3u8
+https://dash4.antik.sk/live/test_orf_zwei_tizen/playlist.m3u8
+
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="atv.at"                 tvg-logo="https://i.imgur.com/1pA0Tid.png"                              ,ATV HD
+http://212.186.45.34:9981/stream/channelid/692531719?profile=pass
+
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="atv.at"                 tvg-logo="https://picserve.netplus.ch/channels/atv.png"                 ,ATV 2
+https://viamotionhsi.netplus.ch/live/eds/atv/browser-HLS8/atv.m3u8
+
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="kika.de"                tvg-logo="https://picserve.netplus.ch/channels/kika.png"                ,KIKA HD
+https://kika-live.ard-mcdn.de/kika/live/hls/de/master.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="kika.de"                tvg-logo="https://picserve.netplus.ch/channels/kika.png"                ,KIKA HD
+https://viamotionhsi.netplus.ch/live/eds/kikahd/browser-HLS8/kikahd.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="kika.de"                tvg-logo="https://picserve.netplus.ch/channels/kika.png"                ,KIKA HD
+https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8
+
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="SuperRTL.de"            tvg-logo="https://download.avm.de/tv/logos/superrtl.png"                ,SUPER RTL
+https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="superrtl.de"            tvg-logo="https://picserve.netplus.ch/channels/superrtl.png"            ,RTL SUPER
+https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-HLS8/superrtl.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="comedycentral.de"       tvg-logo="https://picserve.netplus.ch/channels/comedycentral.png"       ,comedy central HD
+https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-HLS8/comedycentral.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="nickelodeon.de"         tvg-logo="https://picserve.netplus.ch/channels/comedycentralnick.png"   ,comedy central+1
+https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-HLS8/comedycentralnick.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="disneychannel.de"       tvg-logo="https://picserve.netplus.ch/channels/disneychannelde.png"     ,Disney Channel D
+https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8
+
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="phoenix.de"             tvg-logo="https://download.avm.de/tv/logos/phoenix.png"                 ,Phoenix
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="tagesschau24.de"        tvg-logo="https://download.avm.de/tv/logos/tagesschau24.png"            ,tagesschau24
+https://tagesschau-live.ard-mcdn.de/tagesschau/live/hls/de/master.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="welt.de"                tvg-logo="https://picserve.netplus.ch/channels/n24.png"                 ,WELT
+#https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8
+https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id=""                       tvg-logo=""                                                             ,BILD 
+https://bild.personalstream.tv/v1/master.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="ntv.de"                 tvg-logo="https://picserve.netplus.ch/channels/ntv.png"                 ,ntv
+#https://viamotionhsi.netplus.ch/live/eds/ntv/browser-dash/ntv.mpd
+https://viamotionhsi.netplus.ch/live/eds/ntv/browser-HLS8/ntv.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="russiatoday.de"         tvg-logo=""                                                             ,RT DE
+https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="DW.de"                  tvg-logo="https://download.avm.de/tv/logos/deutsche_welle.png"          ,DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="euronews.de"             tvg-logo=""                                                             ,EURONEWS
+https://jmp2.uk/plu-6639d7d4b18d700008da5316.m3u8
+
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="ServusHD.de"            tvg-logo="https://download.avm.de/tv/logos/servus.png"                  ,SERVUS TV
+https://freqsyndlin.servustv.com/771_playlist_1.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="servustv.de"            tvg-logo="https://picserve.netplus.ch/channels/servustvhd.png"          ,Servus TV
+https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-HLS8/servustvhd.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id=""                       tvg-logo=""                                                             ,RED BULL TV
+https://freqsyndlin.redbull.com/582/hls/master/playlist_1920x1080.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id=""                       tvg-logo=""                                                             ,WINTERSPORT ON
+https://play.redbull.com/playlists/wintersport_de/hls6-video/1920x1080.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id=""                       tvg-logo=""                                                             ,BERG WELTEN
+https://play.redbull.com/playlists/nature/hls6-video/1920x1080.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id=""                       tvg-logo=""                                                             ,SPORT ON
+https://play.redbull.com/playlists/sports_de/hls6-video/960x540.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id=""                       tvg-logo=""                                                             ,WETTER PANAROMA
+https://rbmn-live.akamaized.net/hls/live/665268/Wetterpanorama/master_6692.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id=""                       tvg-logo=""                                                             ,TERRA WILD
+https://fast.servustv.com/v1/autentic_terramaterwild_1/ohlscdn_us/V00000003/0/HLS/playlist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id=""                       tvg-logo=""                                                             ,SCOOORE
+https://fast.servustv.com/scooore_cdn/servuson_abr_49133a15727bf628a5ac62da7d618163/scooore/scooore_360p_1_0_Mbit/chunks.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id=""                       tvg-logo=""                                                             ,MOTOR VISION
+https://fast.servustv.com/mvg/mv_de/mv_de_720p_high.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id=""                       tvg-logo=""                                                             ,MOTOR VISION CLASSIC
+https://fast.servustv.com/mvg/mv_cl/mv_cl_1080.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id=""                       tvg-logo=""                                                             ,WISSEN ON
+https://play.redbull.com/playlists/science/hls6-audio/ger.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id=""                       tvg-logo=""                                                             ,MORE THAN SPORT
+https://fast.servustv.com/mvg/mts/mts_1080.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id=""                       tvg-logo=""                                                             ,WETTER
+https://streaming.meteonews.net/hls/stream.m3u8
+
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="kanal9.ch"              tvg-logo="https://picserve.netplus.ch/channels/kanal9.png"              ,kanal9 HD
+https://viamotionhsi.netplus.ch/live/eds/kanal9/browser-HLS8/kanal9.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="telebaern.ch"           tvg-logo="https://picserve.netplus.ch/channels/telebaern.png"           ,TeleBärn
+https://viamotionhsi.netplus.ch/live/eds/telebaern/browser-HLS8/telebaern.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="tv24.ch"                tvg-logo="https://picserve.netplus.ch/channels/tv24.png"                ,tv24 HD
+https://viamotionhsi.netplus.ch/live/eds/tv24/browser-HLS8/tv24.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="bluezoomde.ch"          tvg-logo="https://picserve.netplus.ch/channels/bluezoomde.png"          ,blue zoom
+https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-HLS8/bluezoomde.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="telebielingue.ch"       tvg-logo="https://picserve.netplus.ch/channels/telebielingue.png"       ,Tele Bielingue HD
+https://viamotionhsi.netplus.ch/live/eds/telebielingue/browser-HLS8/telebielingue.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="ric.ch"                 tvg-logo="https://picserve.netplus.ch/channels/ric.png"                 ,RiC D
+https://viamotionhsi.netplus.ch/live/eds/ric/browser-HLS8/ric.m3u8
+
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="eurosport1.de"          tvg-logo="https://picserve.netplus.ch/channels/eurosportde.png"         ,eurosport 1
+https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-HLS8/eurosportde.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="sport1.de"              tvg-logo="https://picserve.netplus.ch/channels/sport1.png"              ,Sport 1
+#https://viamotionhsi.netplus.ch/live/eds/sport1/browser-HLS8/sport1.m3u8
+https://oz.sport1.de/api/ottv1/2/livestream/view/sport2.m3u8
+
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="ANIXE.de"               tvg-logo="https://download.avm.de/tv/logos/anixe_hd.png"                ,ANIXE TV
+https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="ANIXE.de"               tvg-logo="https://download.avm.de/tv/logos/anixe_hd.png"                ,ANIXE SERIE
+https://ma.anixa.tv/clips/stream/anixesd/index.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="anixe.de"               tvg-logo="https://picserve.netplus.ch/channels/anixe.png"               ,ANIXE SERIE
+https://viamotionhsi.netplus.ch/live/eds/anixe/browser-HLS8/anixe.m3u8
+
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,STAR TV DE
+https://viamotionhsi.netplus.ch/live/eds/startv/browser-dash/startv.mpd
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,BIBEL TV
+https://bibeltv02.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,BIBEL 2 TV
+https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
+
+
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,Bundestag TV 1
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk1/_definst_/live/video/hk1_de.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,Bundestag TV 2
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk2/_definst_/live/video/hk2_de.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,Bundestag TV 3
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk3/_definst_/live/video/hk3_de.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,Bundestag TV 4
+https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk4/_definst_/live/video/hk4_de.smil/playlist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,NRW VISION
+https://fms.nrwision.de/live/livestreamHD.stream_1080p/chunklist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,münchen.tv
+https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,KabelJournal
+https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,Light Channel
+http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,Saarland 1
+https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,Saarland 2
+https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,OK Trier TV
+https://s.ok54.de/ott/webstream/playlist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,Baden TV
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,noa4
+http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,noa4
+http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,Chemnitz TV
+https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,Dresden TV
+https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,Regio TV
+https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,TVAktuel
+https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,tv.berlin
+https://58de7a369a9c4.streamlock.net/tvb/7649_7Bpr2XK4zCR6jNV/playlist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,tv.oberfranken
+https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,Weser tv
+https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/chunklist_w1389213573.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,Ausburg Tv
+https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,Oberpfalz TV
+https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,W24
+https://ms01.w24.at/W24/smil:liveevent.smil/chunklist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,FS1 Salzburg TV
+http://stream.fs1.tv:8080/hls/webstream.m3u8
+
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="deluxmusic.de"          tvg-logo="https://picserve.netplus.ch/channels/deluxemusic.png"         ,DELUXE MUSIC
+https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-HLS8/deluxemusic.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""   tvg-logo="https://i.imgur.com/E65GQN9.png"                                                   ,DELUXE MUSIC
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,DELUXE MUSIC DANCE BY KONTOR
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,DELUXE MUSIC RAP
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""   tvg-logo="https://i.imgur.com/YPpgUOg.png"                                                   ,DELUXE SCHLAGER 
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,BBC Top Gear
+https://amg00793-amg00793c44-rakuten-de-5538.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,Zee One
+https://e4955b54.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1kZV9aZWVPbmVfSExT/playlist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,Rakuten - Top Movies
+https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,Rakuten - Action Movies
+https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,Rakuten - Comedy Movies
+https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,Rakuten - Crime Series
+https://b6244e915ee04a5aa758e863a55a6a3d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6217/master.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,Rakuten - Drama Movies
+https://968754c2483045c1a9a7f677caec35b6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6096/master.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,Rakuten - Family Movies
+https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,Rakuten - German Cinema
+https://a5dc66582aa040269fd99d7d7a6ac23b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6200/master.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,Rakuten - Romance Movies
+https://romance-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6475/master.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,Rakuten - Romance Movies 
+https://3e0f2491d8634a58967529df3f424c0d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6475/master.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,Rakuten - Thrillers
+https://thriller-rakuten-tv-de.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6481/master.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,Rakuten - Thrillers
+https://73e5474be2ae422487b18295a9782482.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6481/master.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,Rakuten - DEFA TV
+https://wdrmediagroup-defatv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,Rakuten - FilmGold
+https://mainstreamfilmgold-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,Rakuten - Krimi
+https://4dad3dcf.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0FSRFBsdXNLcmltaV9ITFM/playlist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,Rakuten - Top Sci-Fi
+https://amg00609-amg00609c5-rakuten-uk-3764.playouts.now.amagi.tv/master.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,Rakuten - Top Serien
+https://amg00609-palatinmediafil-cractiontv-rakuten-dhjcp.amagi.tv/hls/amagi_hls_data_rakutenAA-cractiontv-rakuten/CDN/master.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,Rakuten - Serie Crime
+https://546609034c0e41d7b5852dd870ddb53b.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6217/master.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,Mr BEEN
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,Amasia (720p)
+https://splendid-film-amasia-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,Fluss Monster
+https://rivermonstergermany-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,Graham Norton
+https://amg00654-itv-amg00654c37-rakuten-de-7600.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,Hell's Kitchen
+https://hellskitchengermany-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,Lindenstrasse
+https://ad2ef2da.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0FSRFBsdXNMaW5kZW5zdHJhZV9ITFM/playlist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,LooLoo Kids TV
+https://amg02757-amg02757c3-rakuten-de-6135.playouts.now.amagi.tv/playlist/amg02757-loolookids-llkdefast-rakutende/playlist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,MyTime Movie Network
+https://appletree-mytimemoviegerman-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,Naruto
+https://palatinmedia-naruto-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,Red Bull TV
+https://769a97d9.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JlZEJ1bGxUVl9ITFM/playlist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,Royalworld
+https://amogonetworx-royalworld-2-de.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,Starke Frauen
+https://mainstreamstarkefrauen-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,Strongman Champions League
+https://rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,Tastemade
+https://rakutenaa-tm-germany-rakuten-ger-8jboz.amagi.tv/playlist/rakutenAA-tm-germany-rakuten-ger/playlist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,Tennis Channel Germany
+https://tennischanneldeu-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,Travelxp 
+https://travelxp-travelxp-2-de.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,Vevo Pop 
+https://amg00056-amg00056c7-rakuten-de-3245.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,Vevo Schlager Pop
+https://amg00056-amg00056c15-rakuten-it-3241.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,Wicked Tuna Germany
+https://amg00353-amg00353c28-rakuten-us-4895.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,World of Freesports
+https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,XITE
+https://xite-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - 21 Jump Street
+https://jmp2.uk/plu-686cffbf3ffa5e0c91cdcfb3.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - 90210
+https://jmp2.uk/plu-65a67dd13af63d0008257f17.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Alle hassen Chris
+https://jmp2.uk/plu-622f6e1e2792150007e0b2ff.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Andromeda
+https://jmp2.uk/plu-663a163f8ea5560008a3f234.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Anger Management
+https://jmp2.uk/plu-655ca57e4261ca00080b3a04.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Assassination Classroom
+https://jmp2.uk/plu-65a7d99f4a10d800086083a9.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Auction Hunters
+https://jmp2.uk/plu-5ede45d077746000072be0fe.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Auf Achse
+https://jmp2.uk/plu-61fbf91afb1b10000880dd08.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Auto Motor Sport
+https://jmp2.uk/plu-5f760c3d41aa2d0007bfde19.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Avatar
+https://jmp2.uk/plu-600adbdf8c554e00072125c9.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Awkward
+https://jmp2.uk/plu-62bc1784120ba80007935aaa.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Ax Men Die Holzfäller
+https://jmp2.uk/plu-6914913274601d957ae35565.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Axel!
+https://jmp2.uk/plu-667d63d236a2f90008f72269.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Baywatch
+https://jmp2.uk/plu-65819e62b228b70008570e9f.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - BBC Travel
+https://jmp2.uk/plu-60e4519e6873180007d3cddb.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Becker
+https://jmp2.uk/plu-630348a54c48ce00077eb6c7.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Beelzebub
+https://jmp2.uk/plu-67fe498f9ebfe4142424c55d.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Beverly Hills 90210
+https://jmp2.uk/plu-60afb576053df900076fa2f0.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - BIG BROTHER CLASSIC
+https://jmp2.uk/plu-663e09e4b18d700008e48dcf.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Blue Mountain State
+https://jmp2.uk/plu-67ff7dd84906b1acfad97330.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Bronco
+https://jmp2.uk/plu-684ac10236c9361b1977f7bc.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - BVB-Frauen
+https://jmp2.uk/plu-66337ea1307fa300082c28a0.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - CBS News 24/7
+https://jmp2.uk/plu-62441d6ded1827000763dcda.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - CC Pluto TV
+https://jmp2.uk/plu-5d4947590ba40f75dc29c26b.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Chaos City
+https://jmp2.uk/plu-60afbad343e3840007164348.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Cheers
+https://jmp2.uk/plu-611e7f224676bf00076a4d8d.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Comedy Central South Park
+https://jmp2.uk/plu-60c716084d842c00085f6e64.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - DAZN Darts
+https://jmp2.uk/plu-64b67f0424ade50008a3be17.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - DAZN Handball
+https://jmp2.uk/plu-6683f7fe36a2f9000804940c.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - DAZN Heldinnen
+https://jmp2.uk/plu-64afe50c5dc16600087f3227.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Der Chef
+https://jmp2.uk/plu-67dc21ce5a15c0759a07ee19.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Der Denver-Clan
+https://jmp2.uk/plu-62cebd7302478b00073a6b71.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Die fliegenden Ärzte
+https://jmp2.uk/plu-688734b9035d6ef9c34aac16.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Die Nanny
+https://jmp2.uk/plu-66c6fc06489bab0008b6f9da.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Die Sieben-Millionen-Dollar-Frau
+https://jmp2.uk/plu-677fb078a4af36ad50111032.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Die Thundermans
+https://jmp2.uk/plu-6447df8cd3fdde0008f1f627.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Dominance FC TV
+https://jmp2.uk/plu-685aaec481c345899e4458bb.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Don Matteo
+https://jmp2.uk/plu-686d004094a028da3aac8cb0.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Drake & Josh
+https://jmp2.uk/plu-65a67c494a10d800085cab06.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Dyn Sport Mix
+https://jmp2.uk/plu-6866525c8a412a0e95c438b4.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Ein Engel auf Erden
+https://jmp2.uk/plu-622f487722d9d400075f74dd.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Eine himmlische Familie
+https://jmp2.uk/plu-66a244d5cd0d3100083b1e47.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Eine schrecklich nette Familie
+https://jmp2.uk/plu-67a324d221af380008105d6f.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - F.B.I. Files
+https://jmp2.uk/plu-64eddce19001910008df22b8.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Familie Dr. Kleist
+https://jmp2.uk/plu-65819f14b9adc4000813ee39.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Farmland TV
+https://jmp2.uk/plu-663a15d7cb3ea10008edac88.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - FIFA+
+https://jmp2.uk/plu-660bfc032433010008def35a.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Filmgold
+https://jmp2.uk/plu-6305ca798bd95300072d2f93.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Flipper
+https://jmp2.uk/plu-68d277fb12bf71eaaed3e9f1.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Fluss-Monster
+https://jmp2.uk/plu-62a0b2aff4cf470007e47e29.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Frasier
+https://jmp2.uk/plu-62cebf042ffc6d0007c4e59a.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Frasier VIDAA TEST
+https://jmp2.uk/plu-67d4572a8d8dc3d775aa4428.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Germany Shore
+https://jmp2.uk/plu-6447dea7e94c380008dba94c.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Gigolos
+https://jmp2.uk/plu-68d27437e6767bdeb23f0336.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Hausmeister Krause
+https://jmp2.uk/plu-622f6faf65be650007f57aab.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Heartland
+https://jmp2.uk/plu-680f375e6798ccd1185b58f9.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Hell's Kitchen
+https://jmp2.uk/plu-644257fe7cb4b100081ed874.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - iCarly
+https://jmp2.uk/plu-5e8b580a233dc90007f0cb9d.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Ice Pilots
+https://jmp2.uk/plu-5ce40f42ba7f7f5ea9518fe1.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Ice Pilots VIDAA TEST
+https://jmp2.uk/plu-67d4586be979b84e78f064d0.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Jackie Chan Adventures
+https://jmp2.uk/plu-67a2367e9a300a00086f2688.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Just.fishing
+https://jmp2.uk/plu-61b33085897b9d000702b72e.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - KultKrimi
+https://jmp2.uk/plu-5cb5cfe5caf83414128f209e.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - KultKrimi: Der Alte
+https://jmp2.uk/plu-65dde5ef28730900089af7cf.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - KultKrimi: Der Kommissar
+https://jmp2.uk/plu-65dde626ec9fda0008b3dc89.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - KultKrimi: Derrick
+https://jmp2.uk/plu-65dde5848145cb00083277f6.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - KultKrimi: Die Rettungsflieger
+https://jmp2.uk/plu-67ed0c86f7c5d70b90889a51.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - KultKrimi: Ein Fall für zwei
+https://jmp2.uk/plu-68590366010ddd78ef837d29.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - KultKrimi: Küstenwache
+https://jmp2.uk/plu-67ebbdced2832b463faa1e79.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Ladykracher
+https://jmp2.uk/plu-667d3534ca74680008696051.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Liebe Sünde
+https://jmp2.uk/plu-68d276ce59fd82da32267d0d.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Love Boat
+https://jmp2.uk/plu-655ca3d1fbc15b00081f1186.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - McLeods Töchter
+https://jmp2.uk/plu-66c6fcfc6838ee00085beb1a.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Melrose Place
+https://jmp2.uk/plu-64be745340962900080b55e7.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Merhaba Türkische Serien
+https://jmp2.uk/plu-6864e8f264d94c1425fb4563.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Mission Impossible
+https://jmp2.uk/plu-634fe5afece2e60007c9d8b8.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Missions
+https://jmp2.uk/plu-6824539e1295f98347e95242.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - MODUS Super Series Darts
+https://jmp2.uk/plu-66337e6ba0a74e000889563b.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - MOVIEDOME
+https://jmp2.uk/plu-615c1e5ce3039400070a0547.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Moviepilot TV mit Pluto TV
+https://jmp2.uk/plu-65a67d572fac9c000835eb3a.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - MTV Catfish TV Show
+https://jmp2.uk/plu-5db6a697d5f34a000934cd13.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - MTV Dating
+https://jmp2.uk/plu-5caf330ea5068259a32320fd.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - MTV Pluto TV
+https://jmp2.uk/plu-5caf325764025859afdd6c4d.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - MTV Reality
+https://jmp2.uk/plu-685136fb33a52de120bbb086.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - MTV Ridiculousness
+https://jmp2.uk/plu-5f9847fd513250000728a9a5.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - MTV Teen Mom
+https://jmp2.uk/plu-5cffcf5686dfe15595fb3f56.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - MTV The Shores
+https://jmp2.uk/plu-5caf32c2a5068259a32320fc.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - N24 Doku
+https://jmp2.uk/plu-60080e8a4bf36000076a81b1.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Naruto
+https://jmp2.uk/plu-65d5fc39a25d5e00082895c4.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Nick Jr. Club
+https://jmp2.uk/plu-67f3eb1c443f0671bc03ece8.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Nickelodeon Classics
+https://jmp2.uk/plu-67f3eb800a1beb98767ca748.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Nickelodeon Teen
+https://jmp2.uk/plu-5f0d668b872e4400073acc68.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Nickelodeon Toons
+https://jmp2.uk/plu-5ede448d3d50590007a4419e.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Pastewka
+https://jmp2.uk/plu-686cfef52704ca31d85c4bf1.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Pensacola – Flügel aus Stahl
+https://jmp2.uk/plu-655ca4b94261ca00080b38d2.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Perry Mason
+https://jmp2.uk/plu-64eddc3485efec00085b0369.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Action
+https://jmp2.uk/plu-65004605110545000842035d.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Adult Animation
+https://jmp2.uk/plu-67f68bd2135aeda9ddf0ef54.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Animals
+https://jmp2.uk/plu-5d767ae7b456c8cf265ce922.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Anime
+https://jmp2.uk/plu-608181d420fc8500075f612a.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Anime: Fantasy
+https://jmp2.uk/plu-67fe495d9ebfe4142424b7a7.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Britische Serien
+https://jmp2.uk/plu-677e5a3d7bffa6000808dbf2.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Crime
+https://jmp2.uk/plu-5e7b6c60fd20c50007910bf5.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Darts
+https://jmp2.uk/plu-67b481cc1a5ca760801c6c5e.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Deutsche Comedy
+https://jmp2.uk/plu-6672f49f61a39900089db68e.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Emmanuelle Filme
+https://jmp2.uk/plu-67ebc04855de98dc71428538.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Europäische Krimis
+https://jmp2.uk/plu-68b176c2a4841127a8ed1ade.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Explore
+https://jmp2.uk/plu-5ad9b8551b95267e225e59c1.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Femme Fatale
+https://jmp2.uk/plu-68245366b19ce6d4a30b7687.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Ferne Galaxien
+https://jmp2.uk/plu-68ada46d5190a45dc9c45af1.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Food
+https://jmp2.uk/plu-5dc280c9aa218c0009724b4b.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - heiße Nächte
+https://jmp2.uk/plu-64526a145a0cd50008632bfa.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Nächte Retro
+https://jmp2.uk/plu-664f10c4f9992200084a2f47.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Historische Serien
+https://jmp2.uk/plu-68ada3395190a45dc9c445cf.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - History
+https://jmp2.uk/plu-5d767b1c126c65d0a307355f.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Horror
+https://jmp2.uk/plu-62f4f4b88157cf00075c22db.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Horror-Serien
+https://jmp2.uk/plu-67ff7d9c7fc25e0e72451bc9.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Kult Comedies
+https://jmp2.uk/plu-66337de656fc840008ff7a65.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Kultfilme
+https://jmp2.uk/plu-5dde47b63585b500099f74ec.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Movies
+https://jmp2.uk/plu-5c5c3b948002db3c3e0b262e.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Mystery
+https://jmp2.uk/plu-617aad99b68ef100072608cd.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Nature
+https://jmp2.uk/plu-5be1c3f9851dd5632e2c91b2.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Nordic Crime
+https://jmp2.uk/plu-67d984408d8dc3d7754dccf2.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Paranormal
+https://jmp2.uk/plu-5f98487036af340008da1e37.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Polizeiserien
+https://jmp2.uk/plu-64be64445dc166000899ce75.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Popkultur
+https://jmp2.uk/plu-68ada399247c66a111528aaa.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Reality
+https://jmp2.uk/plu-67ebc1b6432a0e406f141341.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Reportagen
+https://jmp2.uk/plu-68ada3edf84960586ad31c7d.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Romance
+https://jmp2.uk/plu-5dc287ce3086a20009f5024c.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Sanfte Berührungen
+https://jmp2.uk/plu-67d983d6a1609bdb523f5f9b.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Sci-Fi
+https://jmp2.uk/plu-60ed498c4248a400077c0b9d.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Science
+https://jmp2.uk/plu-5d767b4889bca2ce7b73ef2e.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Serie
+https://jmp2.uk/plu-5dc190f7bfed110009d934c3.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Serie+
+https://jmp2.uk/plu-5ddbf866b1862a0009a0648e.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Sharks
+https://jmp2.uk/plu-669526d232e25300084bb47b.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Sitcoms
+https://jmp2.uk/plu-5d767ab2b456c8cf265ce921.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Sitcoms+
+https://jmp2.uk/plu-5cd149f021cb6c55e258bbe8.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Snooker 900
+https://jmp2.uk/plu-68ac5543a1ac0c90f2c8943e.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Space
+https://jmp2.uk/plu-61409f8d6feb30000766b675.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Star Trek
+https://jmp2.uk/plu-6152ee71bf99590007893a11.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Thriller
+https://jmp2.uk/plu-5e1efdbf90ba3e0009d99082.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - True Crime
+https://jmp2.uk/plu-615333098185f00008715a56.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Weddings
+https://jmp2.uk/plu-61923bd34b1ec000075e5e89.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Western
+https://jmp2.uk/plu-630dd3b2605f140007e002f5.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Profiling Paris
+https://jmp2.uk/plu-67d984c989788ef7f058b084.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Quantum Leap
+https://jmp2.uk/plu-677fafd91da79bfe4fb0b4ec.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Rauchende Colts
+https://jmp2.uk/plu-638f2bc7bc363100072f02dd.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Rawhide Tausend Meilen Staub
+https://jmp2.uk/plu-638f2983dcd9100008c2374d.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Red Bull TV
+https://jmp2.uk/plu-5e7cb84a172a0f0007da69e4.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Red Shoe Diaries
+https://jmp2.uk/plu-645a0ddfe1979c00086d83ff.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - RoboCop
+https://jmp2.uk/plu-6628e513cee0d90008639b46.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Rookie Blue
+https://jmp2.uk/plu-680f462556ff83bcd6ba2816.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Rules of Engagement
+https://jmp2.uk/plu-64be635a40962900080aaca5.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Sabrina Total verhext!
+https://jmp2.uk/plu-622f40c901d4b70007ad7609.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Sea Patrol
+https://jmp2.uk/plu-688735087b2cf33d01a2d411.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - South Park: Butters Collection
+https://jmp2.uk/plu-646b14a0e94c3800082a8d3a.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - South Park: Cartman Collection
+https://jmp2.uk/plu-646b14747cb4b1000875724d.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - South Park: Kenny Collection
+https://jmp2.uk/plu-646b1404ee6a2f00082b5d66.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - South Park: Kyle Collection
+https://jmp2.uk/plu-646b14d0e1979c0008915a09.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - South Park: Original Version
+https://jmp2.uk/plu-646b150a15939400089e2702.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - South Park: Stan Collection
+https://jmp2.uk/plu-646b1438e94c3800082a8cff.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - SPIEGEL TV
+https://jmp2.uk/plu-6576c20fb3801200084786c9.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - SPIEGEL TV Konflikte
+https://jmp2.uk/plu-65b9268fc798e800085add89.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - SpongeBob Schwammkopf
+https://jmp2.uk/plu-5d00e8adaab96b5635b2a005.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Stand-up Comedy
+https://jmp2.uk/plu-663e09b341af640008c1b68c.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Star Trek: Deep Space Nine
+https://jmp2.uk/plu-65a67d200c7ff50008cb131a.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Star Trek: Enterprise
+https://jmp2.uk/plu-66337ed7a0a74e0008895699.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Star Trek: Voyager
+https://jmp2.uk/plu-6690fcb7d51259000880d479.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Stromberg
+https://jmp2.uk/plu-686cff3224918d4300fa542b.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Swamp People
+https://jmp2.uk/plu-691491c6bb69fb3258c3524a.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Takeshi's Castle
+https://jmp2.uk/plu-6054a9f4bc8a5f000771504c.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Täterjagd
+https://jmp2.uk/plu-642abea1283aa4000805bb5b.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Telenovela ZDF
+https://jmp2.uk/plu-5cb5d043a461406ffe3fb2de.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Tennis Channel
+https://jmp2.uk/plu-6870c9333ffa5e0c914e9205.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Terra Mater WILD
+https://jmp2.uk/plu-65b923f90cb1a100088a03ab.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - The L Word – Wenn Frauen lieben
+https://jmp2.uk/plu-68d2759a59fd82da3226492d.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - The Real Housewives
+https://jmp2.uk/plu-677fb0231da79bfe4fb0bf4e.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Top Gear
+https://jmp2.uk/plu-64c109735dc1660008a4a2dc.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Totally Turtles
+https://jmp2.uk/plu-5d6792bd6be2998ad0ccce30.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Transformers TV
+https://jmp2.uk/plu-643683519b32b400094e0a40.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Unentdeckt – Mörder unter uns
+https://jmp2.uk/plu-650adc3198020f000862eed4.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Unforgettable
+https://jmp2.uk/plu-650adb92a1217e00091a3eff.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Victorious
+https://jmp2.uk/plu-5e8b5e43f294f8000793c3d7.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Wentworth
+https://jmp2.uk/plu-67ebc104f7c5d70b90368360.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Wer ist hier der Boss?
+https://jmp2.uk/plu-609539fa709d6b0007b19887.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Wicked Tuna
+https://jmp2.uk/plu-65253d66c52b3600083d8dd2.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Willkommen bei den Louds
+https://jmp2.uk/plu-627d2d1d05e09f00073ccdff.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Wings – Die Überflieger
+https://jmp2.uk/plu-65b38e310d9ab400082bdec2.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - World Poker Tour
+https://jmp2.uk/plu-5ad9b7aae738977e2c312132.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - X-Factor: Das Unfassbare
+https://jmp2.uk/plu-642d7e029189ce0008958af5.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Xena – Die Kriegerprinzessin
+https://jmp2.uk/plu-655ca2c99d5ac400080d1324.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Yu-Gi-Oh!
+https://jmp2.uk/plu-642d4493aa2d690008f0a03f.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,PlutoTv - Zoey 101
+https://jmp2.uk/plu-63c69e6c4207be0007f73c22.m3u8
+
+
+#####################################################################################################################################################################################################
+#######    YABANCI HABER KANALLARI                 ############################################################################################################################
+#####################################################################################################################################################################################################
+
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="TRTWorld.tr"           tvg-logo=""                                                              ,TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="AfricanewsEnglish.fr"  tvg-logo="https://i.imgur.com/5UxU4zc.png"                               ,Africanews
+https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiOTU0NDAyODQtOTU0My00Yzc2LThmZjQtNDRhY2YwYmQxYTYwIiwibWt0IjoicGwiLCJjaCI6NjYwNiwicHRmIjo1fQ==/26036/africanews-en.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="Africa24English.fr"    tvg-logo=""                                                              ,Africa 24
+https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
+
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="bbcworld.uk"           tvg-logo="https://picserve.netplus.ch/channels/bbcworld.png"             ,BBC NEWS HD
+https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="skynews.uk"            tvg-logo="https://picserve.netplus.ch/channels/skynews.png"              ,sky news
+https://viamotionhsi.netplus.ch/live/eds/skynews/browser-HLS8/skynews.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="cnn.uk"                tvg-logo="https://picserve.netplus.ch/channels/cnn.png"                  ,cnn europe HD
+https://viamotionhsi.netplus.ch/live/eds/cnn/browser-HLS8/cnn.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="aljazeera.com"         tvg-logo="https://picserve.netplus.ch/channels/aljazeera.png"            ,AlJazeera En HD
+https://viamotionhsi.netplus.ch/live/eds/aljazeera/browser-HLS8/aljazeera.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="CNBC.uk"               tvg-logo="https://picserve.netplus.ch/channels/cnbc.png"                 ,CNBC
+https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="Bloomberg.uk"          tvg-logo="https://picserve.netplus.ch/channels/bloomberg.png"            ,bloomberg HD
+https://viamotionhsi.netplus.ch/live/eds/bloomberg/browser-HLS8/bloomberg.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="tvcnews.ng"            tvg-logo="https://picserve.netplus.ch/channels/tvcnews.png"              ,TVCNEWS
+https://viamotionhsi.netplus.ch/live/eds/tvcnews/browser-HLS8/tvcnews.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH"  tvg-id="nhkworldjapan.jp"      tvg-logo="https://picserve.netplus.ch/channels/nhk.png"                  ,NHK WORLD JAPAN
+https://viamotionhsi.netplus.ch/live/eds/nhk/browser-HLS8/nhk.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,CGTN
+https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                                                                                                ,CGTN Documentary
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="RTS1.ch"                tvg-logo="https://picserve.netplus.ch/channels/rts1hd.png"               ,RTS 1 HD
+https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-HLS8/rts1hd.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="RTS2.ch"                tvg-logo="https://picserve.netplus.ch/channels/rts2hd.png"               ,RTS 2 HD
+https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-HLS8/rts2hd.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="TF1.fr"                 tvg-logo="https://picserve.netplus.ch/channels/tf1hd.png"                ,TF1 CH HD
+https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="France2.fr"             tvg-logo="https://picserve.netplus.ch/channels/france2hd.png"            ,France2 HD
+https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-HLS8/france2hd.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="France3.fr"             tvg-logo="https://picserve.netplus.ch/channels/france3hd.png"            ,France3 HD
+https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-HLS8/france3hd.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="France4.fr"             tvg-logo="https://picserve.netplus.ch/channels/france4hd.png"            ,France4 HD
+https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-HLS8/france4hd.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="France5.fr"             tvg-logo="https://picserve.netplus.ch/channels/france5hd.png"            ,France5 HD
+https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="m6.fr"                  tvg-logo="https://picserve.netplus.ch/channels/m6hd.png"                 ,M6 CH HD
+https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="canal9.ch"              tvg-logo="https://picserve.netplus.ch/channels/canal9.png"               ,Canal9 FHD
+https://viamotionhsi.netplus.ch/live/eds/canal9/browser-HLS8/canal9.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="lemanbleu.ch"           tvg-logo="https://picserve.netplus.ch/channels/lemanbleu.png"            ,Léman bleu HD
+https://viamotionhsi.netplus.ch/live/eds/lemanbleu/browser-HLS8/lemanbleu.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="latele.ch"              tvg-logo="https://picserve.netplus.ch/channels/latele.png"               ,LA TELE HD
+https://viamotionhsi.netplus.ch/live/eds/latele/browser-HLS8/latele.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="canalalphaju.ch"        tvg-logo="https://picserve.netplus.ch/channels/canalalphaju.png"         ,Canal Alpha JU HD
+https://viamotionhsi.netplus.ch/live/eds/canalalphaju/browser-HLS8/canalalphaju.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="canalalphane.ch"        tvg-logo="https://picserve.netplus.ch/channels/canalalphane.png"         ,Canal Alpha NE HD
+https://viamotionhsi.netplus.ch/live/eds/canalalphane/browser-HLS8/canalalphane.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="tmc.fr"                 tvg-logo="https://picserve.netplus.ch/channels/tmc.png"                  ,TMC HD
+https://viamotionhsi.netplus.ch/live/eds/tmc/browser-HLS8/tmc.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="w9.fr"                  tvg-logo="https://picserve.netplus.ch/channels/w9.png"                   ,W9 HD
+https://viamotionhsi.netplus.ch/live/eds/w9/browser-HLS8/w9.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="carac1.ch"              tvg-logo="https://picserve.netplus.ch/channels/rougetv.png"              ,carac1 HD
+https://viamotionhsi.netplus.ch/live/eds/rougetv/browser-HLS8/rougetv.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="carac2.ch"              tvg-logo="https://picserve.netplus.ch/channels/onetv.png"                ,carac2 HD
+https://viamotionhsi.netplus.ch/live/eds/onetv/browser-HLS8/onetv.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="carac3.ch"              tvg-logo="https://picserve.netplus.ch/channels/lfmtv.png"                ,carac3 HD
+https://viamotionhsi.netplus.ch/live/eds/lfmtv/browser-HLS8/lfmtv.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="carac4.ch"              tvg-logo="https://picserve.netplus.ch/channels/tvsuisseplus.png"         ,carac4 HD
+https://viamotionhsi.netplus.ch/live/eds/tvsuisseplus/browser-HLS8/tvsuisseplus.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="carac5.ch"              tvg-logo="https://picserve.netplus.ch/channels/teleswizz.png"            ,carac5 HD
+https://viamotionhsi.netplus.ch/live/eds/teleswizz/browser-HLS8/teleswizz.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="tfx.fr"                 tvg-logo="https://picserve.netplus.ch/channels/nt1.png"                  ,TFX HD
+https://viamotionhsi.netplus.ch/live/eds/nt1/browser-HLS8/nt1.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="t18.fr"                 tvg-logo="https://picserve.netplus.ch/channels/t18.png"                  ,T18 HD
+https://viamotionhsi.netplus.ch/live/eds/t18/browser-HLS8/t18.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="cstar.fr"               tvg-logo="https://picserve.netplus.ch/channels/d17.png"                  ,CSTAR HD
+https://viamotionhsi.netplus.ch/live/eds/d17/browser-HLS8/d17.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="rtl9.be"                tvg-logo="https://picserve.netplus.ch/channels/rtl9.png"                 ,RTL9 HD
+https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-HLS8/rtl9.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="ab1.tv"                 tvg-logo="https://picserve.netplus.ch/channels/ab1.png"                  ,AB1
+https://viamotionhsi.netplus.ch/live/eds/ab1/browser-HLS8/ab1.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="tf1seriesfilms.fr"      tvg-logo="https://picserve.netplus.ch/channels/hd1.png"                  ,TF1 Series Films HD
+https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="6ter.fr"                tvg-logo="https://picserve.netplus.ch/channels/6ter.png"                 ,6ter CH HD
+https://viamotionhsi.netplus.ch/live/eds/6ter/browser-HLS8/6ter.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="rmclife.fr"             tvg-logo="https://picserve.netplus.ch/channels/cherie25.png"             ,RMC Life HD
+https://viamotionhsi.netplus.ch/live/eds/cherie25/browser-HLS8/cherie25.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="novo19.fr"              tvg-logo="https://picserve.netplus.ch/channels/novo19.png"               ,NOVO19 HD
+https://viamotionhsi.netplus.ch/live/eds/novo19/browser-HLS8/novo19.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="numero23.fr"            tvg-logo="https://picserve.netplus.ch/channels/numero23.png"             ,RMC STORY HD
+https://viamotionhsi.netplus.ch/live/eds/numero23/browser-HLS8/numero23.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="bluezoom.ch"            tvg-logo="https://picserve.netplus.ch/channels/bluezoomfr.png"           ,blue zoom HD
+https://viamotionhsi.netplus.ch/live/eds/bluezoomfr/browser-HLS8/bluezoomfr.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="lequipe.fr"             tvg-logo="https://picserve.netplus.ch/channels/lequipe21.png"            ,La chaine
+https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-HLS8/lequipe21.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="ab3.tv"                 tvg-logo="https://picserve.netplus.ch/channels/ab3.png"                  ,AB3
+https://viamotionhsi.netplus.ch/live/eds/ab3/browser-HLS8/ab3.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="paramount.fr"           tvg-logo="https://picserve.netplus.ch/channels/paramount.png"            ,paramount network
+#EXTREM https://viamotionhsi.netplus.ch/live/eds/paramount/browser-HLS8/paramount.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="tcm.fr"                 tvg-logo="https://picserve.netplus.ch/channels/tcm.png"                  ,TCM CINEMA HD
+https://viamotionhsi.netplus.ch/live/eds/tcm/browser-HLS8/tcm.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="cartoonnetwork.ch"      tvg-logo="https://picserve.netplus.ch/channels/cartoonnetwork.png"       ,CARTOON NETWORK
+https://viamotionhsi.netplus.ch/live/eds/cartoonnetwork/browser-HLS8/cartoonnetwork.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="gulli.fr"               tvg-logo="https://picserve.netplus.ch/channels/gulli.png"                ,gulli
+https://viamotionhsi.netplus.ch/live/eds/gulli/browser-HLS8/gulli.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="gameone.fr"             tvg-logo="https://picserve.netplus.ch/channels/gameone.png"              ,Game 1 HD
+#EXTREM https://viamotionhsi.netplus.ch/live/eds/gameone/browser-HLS8/gameone.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="escales.fr"             tvg-logo="https://picserve.netplus.ch/channels/escales.png"              ,TREK HD
+https://viamotionhsi.netplus.ch/live/eds/escales/browser-HLS8/escales.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="rmcdecouverte.fr"       tvg-logo="https://picserve.netplus.ch/channels/rmcdecouverte.png"        ,RMC DECOUVERTE HD
+https://viamotionhsi.netplus.ch/live/eds/rmcdecouverte/browser-HLS8/rmcdecouverte.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="planeteplus.fr"         tvg-logo="https://picserve.netplus.ch/channels/planeteplus.png"          ,PLANETE+ HD
+https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-HLS8/planeteplus.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="animaux.fr"             tvg-logo="https://picserve.netplus.ch/channels/animaux.png"              ,ANIMAUX HD
+https://viamotionhsi.netplus.ch/live/eds/animaux/browser-HLS8/animaux.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="arte.fr"                tvg-logo="https://picserve.netplus.ch/channels/artehd.png"               ,arte HD
+https://viamotionhsi.netplus.ch/live/eds/artehd/browser-HLS8/artehd.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="bfmtv.fr"               tvg-logo="https://picserve.netplus.ch/channels/bfmtv.png"                ,BFM TV HD
+https://viamotionhsi.netplus.ch/live/eds/bfmtv/browser-HLS8/bfmtv.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="france24.fr"            tvg-logo="https://picserve.netplus.ch/channels/france24.png"             ,France24 HD
+https://viamotionhsi.netplus.ch/live/eds/france24/browser-HLS8/france24.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="euronews.fr"            tvg-logo="https://picserve.netplus.ch/channels/euronews.png"             ,euronews HD
+https://viamotionhsi.netplus.ch/live/eds/euronews/browser-HLS8/euronews.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="tv5monde.fr"            tvg-logo="https://picserve.netplus.ch/channels/tv5mondefbs.png"          ,TV5 MONDE FBSM HD
+https://viamotionhsi.netplus.ch/live/eds/tv5mondefbs/browser-HLS8/tv5mondefbs.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="itele.fr"               tvg-logo="https://picserve.netplus.ch/channels/itele.png"                ,CNEWS HD
+https://viamotionhsi.netplus.ch/live/eds/itele/browser-HLS8/itele.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="lci.fr"                 tvg-logo="https://picserve.netplus.ch/channels/lci.png"                  ,LCI HD
+https://viamotionhsi.netplus.ch/live/eds/lci/browser-HLS8/lci.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="bfmbusiness.fr"         tvg-logo="https://picserve.netplus.ch/channels/bfmbusiness.png"          ,BFM BUSINESS HD
+https://viamotionhsi.netplus.ch/live/eds/bfmbusiness/browser-HLS8/bfmbusiness.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="lcp.fr"                 tvg-logo="https://picserve.netplus.ch/channels/lcp.png"                  ,LCP8 Public Senat HD
+https://viamotionhsi.netplus.ch/live/eds/lcp/browser-HLS8/lcp.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="monacotv.fr"            tvg-logo="https://picserve.netplus.ch/channels/monacotv.png"             ,TVMONACO HD
+https://viamotionhsi.netplus.ch/live/eds/monacotv/browser-HLS8/monacotv.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="franceinfo.fr"          tvg-logo="https://picserve.netplus.ch/channels/franceinfo.png"           ,Franceinfo HD
+https://viamotionhsi.netplus.ch/live/eds/franceinfo/browser-HLS8/franceinfo.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="mezzo.fr"               tvg-logo="https://picserve.netplus.ch/channels/mezzo.png"                ,mezzo HD
+https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-HLS8/mezzo.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="mtvfrance.fr"           tvg-logo="https://picserve.netplus.ch/channels/mtvfrance.png"            ,MTV France HD
+https://viamotionhsi.netplus.ch/live/eds/mtvfrance/browser-HLS8/mtvfrance.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="kto.fr"                 tvg-logo="https://picserve.netplus.ch/channels/kto.png"                  ,kto
+https://viamotionhsi.netplus.ch/live/eds/kto/browser-HLS8/kto.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="canalplusclair.fr"      tvg-logo="https://picserve.netplus.ch/channels/canalplusclair.png"       ,canal+ en clair CH
+https://viamotionhsi.netplus.ch/live/eds/canalplusclair/browser-HLS8/canalplusclair.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="canalj.fr"              tvg-logo="https://picserve.netplus.ch/channels/canalj.png"               ,Canal J HD
+https://viamotionhsi.netplus.ch/live/eds/canalj/browser-HLS8/canalj.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="nrtv.ch"                tvg-logo="https://picserve.netplus.ch/channels/nrtv.png"                 ,nrtv HD
+https://viamotionhsi.netplus.ch/live/eds/nrtv/browser-HLS8/nrtv.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="maxtv.ch"               tvg-logo="https://picserve.netplus.ch/channels/maxtv.png"                ,DieuTV
+https://viamotionhsi.netplus.ch/live/eds/maxtv/browser-HLS8/maxtv.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="tvm3.ch"                tvg-logo="https://picserve.netplus.ch/channels/tvm3.png"                 ,tvm3 HD
+https://viamotionhsi.netplus.ch/live/eds/tvm3/browser-HLS8/tvm3.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="tv8montblanc.fr"        tvg-logo="https://picserve.netplus.ch/channels/tv8montblanc.png"         ,8Mont-Blanc
+https://viamotionhsi.netplus.ch/live/eds/tv8montblanc/browser-HLS8/tv8montblanc.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="valtv.ch"               tvg-logo="https://picserve.netplus.ch/channels/valtv.png"                ,Val TV HD
+https://viamotionhsi.netplus.ch/live/eds/valtv/browser-HLS8/valtv.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="RSILa1.ch"              tvg-logo="https://picserve.netplus.ch/channels/rsila1.png"               ,RSI La 1 HD
+https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="RSILa2.ch"              tvg-logo="https://picserve.netplus.ch/channels/rsila2.png"               ,RSI La 2 HD
+https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="Rai1.it"                tvg-logo="https://picserve.netplus.ch/channels/rai1.png"                 ,Rai 1 HD
+https://viamotionhsi.netplus.ch/live/eds/rai1/browser-HLS8/rai1.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="Rai2.it"                tvg-logo="https://picserve.netplus.ch/channels/rai2.png"                 ,Rai 2 HD
+https://viamotionhsi.netplus.ch/live/eds/rai2/browser-HLS8/rai2.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="Rai3.it"                tvg-logo="https://picserve.netplus.ch/channels/rai3.png"                 ,Rai 3 HD
+https://viamotionhsi.netplus.ch/live/eds/rai3/browser-HLS8/rai3.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="Raisport1.it"           tvg-logo="https://picserve.netplus.ch/channels/raisport1.png"            ,Rai Sport HD
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-HLS8/raisport1.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="Rainews24.it"           tvg-logo="https://picserve.netplus.ch/channels/rainews.png"              ,Rai News24
+https://viamotionhsi.netplus.ch/live/eds/rainews/browser-HLS8/rainews.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="italia1.it"             tvg-logo="https://picserve.netplus.ch/channels/italia1.png"              ,Italia1 HD
+https://viamotionhsi.netplus.ch/live/eds/italia1/browser-HLS8/italia1.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="rete4.it"               tvg-logo="https://picserve.netplus.ch/channels/rete4.png"                ,Rete4 HD
+https://viamotionhsi.netplus.ch/live/eds/rete4/browser-HLS8/rete4.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="canale5.it"             tvg-logo="https://picserve.netplus.ch/channels/canale5.png"              ,canale5 HD
+https://viamotionhsi.netplus.ch/live/eds/canale5/browser-HLS8/canale5.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="la7.it"                 tvg-logo="https://picserve.netplus.ch/channels/la7.png"                  ,LA7 HD 720p
+https://viamotionhsi.netplus.ch/live/eds/la7/browser-HLS8/la7.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="raigulp.it"             tvg-logo="https://picserve.netplus.ch/channels/raigulp.png"              ,Rai Gulp HD
+https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-HLS8/raigulp.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="raistoria.it"           tvg-logo="https://picserve.netplus.ch/channels/raistoria.png"            ,Rai Storia FHD
+https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-HLS8/raistoria.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="raiscuola.it"           tvg-logo="https://picserve.netplus.ch/channels/raiscuola.png"            ,Rai Scuola HD
+https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-HLS8/raiscuola.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="dmax.it"                tvg-logo="https://picserve.netplus.ch/channels/dmaxitalia.png"           ,DMAX Italia HD
+https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-HLS8/dmaxitalia.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="canaleit.it"            tvg-logo="https://picserve.netplus.ch/channels/canaleit.png"             ,CANALE Italia
+https://viamotionhsi.netplus.ch/live/eds/canaleit/browser-HLS8/canaleit.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="VideoItalia.it"         tvg-logo="https://picserve.netplus.ch/channels/videoitalia.png"          ,VIDEO ITALIA HD
+https://viamotionhsi.netplus.ch/live/eds/videoitalia/browser-HLS8/videoitalia.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="nove.it"                tvg-logo="https://picserve.netplus.ch/channels/nove.png"                 ,nove HD
+https://viamotionhsi.netplus.ch/live/eds/nove/browser-HLS8/nove.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="la7cinema.it"           tvg-logo="https://picserve.netplus.ch/channels/la7d.png"                 ,LA7 CINEMA HD
+https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="bbc1.uk"                tvg-logo="https://picserve.netplus.ch/channels/bbc1.png"                 ,BBC ONE HD
+https://viamotionhsi.netplus.ch/live/eds/bbc1/browser-HLS8/bbc1.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="bbc2.uk"                tvg-logo="https://picserve.netplus.ch/channels/bbc2.png"                 ,BBC TWO HD
+https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="bbc3cbbc.uk"            tvg-logo="https://picserve.netplus.ch/channels/bbc3cbbc.png"             ,BBC THREE CBBC HD
+https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="bbc4cbeebies.uk"        tvg-logo="https://picserve.netplus.ch/channels/bbc4cbeebies.png"         ,BBC FOUR CBeebies HD 
+https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="bbcworld.uk"            tvg-logo="https://picserve.netplus.ch/channels/bbcworld.png"             ,BBC NEWS HD
+https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="itv.uk"                 tvg-logo="https://picserve.netplus.ch/channels/itv.png"                  ,itv1 HD
+https://viamotionhsi.netplus.ch/live/eds/itv/browser-HLS8/itv.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="itv2.uk"                tvg-logo="https://picserve.netplus.ch/channels/itv2.png"                 ,itv2 HD
+https://viamotionhsi.netplus.ch/live/eds/itv2/browser-HLS8/itv2.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="itv3.uk"                tvg-logo="https://picserve.netplus.ch/channels/itv3.png"                 ,itv3 HD
+https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="itv4.uk"                tvg-logo="https://picserve.netplus.ch/channels/itv4.png"                 ,itv4 HD
+https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="questtv.com"            tvg-logo="https://picserve.netplus.ch/channels/quest.png"                ,QUEST HD
+https://viamotionhsi.netplus.ch/live/eds/quest/browser-HLS8/quest.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="channel4.uk"            tvg-logo="https://picserve.netplus.ch/channels/channel4.png"             ,channel4 HD
+https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="channel5.uk"            tvg-logo="https://picserve.netplus.ch/channels/channel5.png"             ,channel5 HD
+https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="film4.uk"               tvg-logo="https://picserve.netplus.ch/channels/film4.png"                ,FILM4
+https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="more4.uk"               tvg-logo="https://picserve.netplus.ch/channels/more4.png"                ,More4
+https://viamotionhsi.netplus.ch/live/eds/more4/browser-HLS8/more4.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="foodnetwork.uk"         tvg-logo="https://picserve.netplus.ch/channels/foodnetwork.png"          ,food network E
+https://viamotionhsi.netplus.ch/live/eds/foodnetwork/browser-HLS8/foodnetwork.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="rtpi.pt"                tvg-logo="https://picserve.netplus.ch/channels/rtpi.png"                 ,RTP internacional
+https://viamotionhsi.netplus.ch/live/eds/rtpi/browser-HLS8/rtpi.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                       tvg-logo=""                                                              ,Rede Record int HD
+https://viamotionhsi.netplus.ch/live/eds/rederecordinternacional/browser-HLS8/rederecordinternacional.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="tveinternacional.es"    tvg-logo="https://picserve.netplus.ch/channels/tveinternacional.png"     ,tve int HD
+https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-HLS8/tveinternacional.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="canal24horas.es"        tvg-logo="https://picserve.netplus.ch/channels/canal24horas.png"         ,24h HD
+https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-HLS8/canal24horas.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="Aragontv.es"            tvg-logo="https://picserve.netplus.ch/channels/aragontv.png"             ,Aragon TV HD
+https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-HLS8/aragontv.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="starhd.es"              tvg-logo="https://picserve.netplus.ch/channels/starhd.png"               ,star ES HD
+https://viamotionhsi.netplus.ch/live/eds/starhd/browser-HLS8/starhd.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="recordnews.br"          tvg-logo="https://picserve.netplus.ch/channels/recordnews.png"           ,Record news int
+https://viamotionhsi.netplus.ch/live/eds/recordnews/browser-HLS8/recordnews.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="alarabiya.net"          tvg-logo="https://picserve.netplus.ch/channels/alarabiya.png"            ,Al Arabiya HD
+https://viamotionhsi.netplus.ch/live/eds/alarabiya/browser-HLS8/alarabiya.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="almaghribia.ma"         tvg-logo="https://picserve.netplus.ch/channels/almaghribia.png"          ,Al Maghribia HD
+https://viamotionhsi.netplus.ch/live/eds/almaghribia/browser-HLS8/almaghribia.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="almasriyah.eg"          tvg-logo="https://picserve.netplus.ch/channels/almasriyah.png"           ,Al Masriyah HD
+https://viamotionhsi.netplus.ch/live/eds/almasriyah/browser-HLS8/almasriyah.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="dmsat.rs"               tvg-logo="https://picserve.netplus.ch/channels/dmsat.png"                ,DMSAT
+https://viamotionhsi.netplus.ch/live/eds/dmsat/browser-HLS8/dmsat.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="tvppolonia.pl"          tvg-logo="https://picserve.netplus.ch/channels/tvpolonia.png"            ,TVP POLONIA
+https://viamotionhsi.netplus.ch/live/eds/tvpolonia/browser-HLS8/tvpolonia.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="duna.hu"                tvg-logo="https://picserve.netplus.ch/channels/duna.png"                 ,DUNA HD
+https://viamotionhsi.netplus.ch/live/eds/duna/browser-HLS8/duna.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="bntworld.bg"            tvg-logo="https://picserve.netplus.ch/channels/bntworld.png"             ,BNT4 HD
+https://viamotionhsi.netplus.ch/live/eds/bntworld/browser-HLS8/bntworld.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="tvrinternational.ro"    tvg-logo="https://picserve.netplus.ch/channels/tvrinternational.png"     ,TVRomania int
+https://viamotionhsi.netplus.ch/live/eds/tvrinternational/browser-HLS8/tvrinternational.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="bvn.nl"                 tvg-logo="https://picserve.netplus.ch/channels/bvn.png"                  ,BVN
+https://viamotionhsi.netplus.ch/live/eds/bvn/browser-HLS8/bvn.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="rtk1.al"                tvg-logo="https://picserve.netplus.ch/channels/rtk1.png"                 ,RTK1 SAT HD
+#EXTREM https://viamotionhsi.netplus.ch/live/eds/rtk1/browser-HLS8/rtk1.m3u8
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk-sat/tracks-v4a1/mono.ts.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="ptccbet.rs"             tvg-logo="https://picserve.netplus.ch/channels/rtssat.png"               ,PTC CBET HD
+https://viamotionhsi.netplus.ch/live/eds/rtssat/browser-HLS8/rtssat.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="mne.me"                 tvg-logo="https://picserve.netplus.ch/channels/rtcg.png"                 ,MNE HD
+https://viamotionhsi.netplus.ch/live/eds/rtcg/browser-HLS8/rtcg.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="trtturk.tr"             tvg-logo="https://picserve.netplus.ch/channels/trtturk.png"              ,TRT TURK HD
+https://viamotionhsi.netplus.ch/live/eds/trtturk/browser-HLS8/trtturk.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="eurod.tr"               tvg-logo="https://picserve.netplus.ch/channels/eurod.png"                ,EUROD
+https://viamotionhsi.netplus.ch/live/eds/eurod/browser-HLS8/eurod.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="showturk.tr"            tvg-logo="https://picserve.netplus.ch/channels/showturk.png"             ,show turk
+https://viamotionhsi.netplus.ch/live/eds/showturk/browser-HLS8/showturk.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="2m.ma"                  tvg-logo="https://picserve.netplus.ch/channels/2mmaroc.png"              ,2M Maroc FHD
+https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id=""                       tvg-logo="https://picserve.netplus.ch/channels/canalalgerie.png"         ,Canal Algerie2
+https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-dash/canalalgerie.mpd
+#EXTINF:-1 group-title="🇩🇪 | DEUTSCH CH" tvg-id="cctv4.cn"               tvg-logo="https://picserve.netplus.ch/channels/cctv4.png"                ,cctv4 HD
+https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-HLS8/cctv4.m3u8
+
+
